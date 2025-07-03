@@ -1,0 +1,1052 @@
+Age,Gender,Marital_status,no_children,Employment,monthly_income,Insurance,insurance_type,last_visit (months),insurance_lastvisit,checkup,last_checkup (years),cancer_screening,last_screening (years)
+18-30,Female,Married,1,Employed,40001-50000,No,Unknown,2 months ago,No,Yes,1,Yes,1
+18-30,Male,Single,Zero,Unemployed,10001-20000,Yes,Kengen,An year ago,Yes,Yes,4+,No,1
+18-30,Male,Single,0,Employed,10001-20000,Yes,Nhif,3.3.2024,Yes,Yes,2,No,4+
+41-50,Female,Married,Three,Self-employed,30001-40000,Yes,NHIF,This month,Yes,Yes,1,Yes,2
+41-50,Female,Married,5,Self-employed,30001-40000,Yes,NHIF,3,Yes,Yes,1,Yes,1
+31-40,Female,Married,2,Employed,50001+,Yes,NHIF,1,Yes,Yes,1,Yes,1
+60+,Male,Married,7,Employed,30001-40000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+60+,Female,Widowed,Seven children,Self-employed,50001+,Yes,Lifetime cover,One week ago,Yes,Yes,1,Yes,3
+18-30,Male,Single,1,Unemployed,20001-30000,Yes,NHIF,2,Yes,Yes,2,Yes,1
+41-50,Male,Divorced,2,Self-employed,30001-40000,Yes,NHIF,6,Yes,Yes,1,Yes,4+
+31-40,Female,Married,3,Employed,20001-30000,No,Unknown,2,No,Yes,2,Yes,4+
+60+,Female,Widowed,10,Unemployed,Less than 10000,Yes,NHIF,1,Yes,Yes,1,Yes,3
+60+,Female,Widowed,7,Self-employed,40001-50000,Yes,Old Mutual,2,Yes,Yes,1,Yes,4+
+18-30,Female,Single,0,Employed,20001-30000,No,Unknown,5,No,Yes,2,Yes,4+
+60+,Female,Married,4,Employed,50001+,Yes,corporate,2,Yes,Yes,1,Yes,1
+41-50,Male,Married,2,Self-employed,Less than 10000,Yes,NHIF,6 months ago,Yes,Yes,1,No,1
+51-60,Female,Married,3,Unemployed,Less than 10000,No,Unknown,May-24,No,Yes,2,Yes,3
+41-50,Male,Married,2,Self-employed,20001-30000,Yes,NHIF,Mar-24,Yes,Yes,1,Yes,1
+60+,Male,Married,3,Self-employed,40001-50000,Yes,NHIF,May,Yes,Yes,1,Yes,1
+41-50,Female,Married,2,Self-employed,20001-30000,Yes,NHIF,Feb-24,Yes,Yes,1,Yes,1
+51-60,Male,Married,4,Self-employed,40001-50000,Yes,NHIF,May,Yes,Yes,3,Yes,1
+31-40,Female,Married,3,Employed,20001-30000,Yes,Equity,December,Yes,Yes,3,Yes,2
+31-40,Female,Married,4,Self-employed,20001-30000,Yes,Brottam,April,Yes,Yes,2,Yes,2
+41-50,Male,Divorced,2,Employed,30001-40000,Yes,NHIF,April,No,Yes,3,Yes,3
+51-60,Male,Married,11,Employed,30001-40000,Yes,NHIF,May,Yes,Yes,2,Yes,1
+18-30,Female,Single,1,Employed,10001-20000,Yes,NHIF,4,Yes,Yes,1,Yes,2
+41-50,Female,Married,5,Self-employed,20001-30000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+51-60,Female,Divorced,4,Employed,40001-50000,Yes,Britam,1,Yes,Yes,2,Yes,2
+31-40,Male,Married,2,Employed,10001-20000,Yes,Britam,Last month but one,Yes,Yes,2,Yes,1
+41-50,Female,Married,3,Employed,50001+,Yes,AAR NHIF,1,Yes,Yes,1,Yes,4+
+41-50,Male,Married,4,Employed,30001-40000,Yes,BRITAM,January,Yes,Yes,1,Yes,2
+41-50,Female,Married,3,Employed,10001-20000,Yes,NHIF,In 5 months time,Yes,Yes,1,Yes,1
+41-50,Female,Married,6,Employed,40001-50000,Yes,APA insurance,November,Yes,Yes,1,Yes,2
+51-60,Male,Married,6,Employed,40001-50000,Yes,APA INSURANCE,April,Yes,Yes,1,Yes,1
+31-40,Male,Divorced,3,Employed,30001-40000,Yes,Nhif,2,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Student,Less than 10000,No,Unknown,Last month,No,Yes,2,Yes,2
+31-40,Female,Single,0,Employed,40001-50000,Yes,Death and accident insurance cover,April,Yes,Yes,1,Yes,2
+31-40,Female,Married,3,Employed,Less than 10000,Yes,Britam,Last month,Yes,Yes,2,Yes,2
+41-50,Male,Married,5,Employed,30001-40000,Yes,NHIF,2,Yes,Yes,1,Yes,2
+18-30,Female,Married,2,Self-employed,Less than 10000,No,Unknown,Last year,No,Yes,2,Yes,1
+41-50,Male,Married,Three,Self-employed,50001+,Yes,NHIF,5 months ago,Yes,Yes,1,Yes,1
+41-50,Male,Married,3,Employed,20001-30000,Yes,Britam,Last year,Yes,Yes,1,Yes,1
+41-50,Male,Married,2,Employed,30001-40000,Yes,Life and property insurance cover,May,Yes,Yes,1,Yes,1
+51-60,Female,Married,4,Employed,30001-40000,Yes,NHIF,last year,Yes,Yes,1,Yes,1
+60+,Female,Widowed,5,Self-employed,30001-40000,Yes,Britam,Last month,Yes,Yes,1,Yes,1
+41-50,Male,Married,3,Employed,40001-50000,Yes,Minet,February,Yes,Yes,1,Yes,1
+41-50,Female,Divorced,3,Employed,40001-50000,Yes,Britam,March,Yes,Yes,1,Yes,1
+"41-50, 51-60",Female,Widowed,6,Unemployed,10001-20000,No,Unknown,MARCH,No,Yes,1,Yes,1
+41-50,Male,Divorced,1,Employed,20001-30000,Yes,NHIF,1 month,Yes,Yes,1,Yes,2
+51-60,Male,Married,2,Self-employed,30001-40000,Yes,NHIF,December last year,Yes,Yes,2,Yes,3
+60+,Male,Widowed,5,Self-employed,50001+,Yes,NHIF,1,Yes,Yes,1,Yes,3
+41-50,Female,Divorced,2,Employed,50001+,Yes,Britam,Last month,Yes,Yes,1,Yes,1
+31-40,Female,Married,5,Unemployed,Less than 10000,No,Unknown,Last month,No,Yes,1,Yes,1
+51-60,Male,Married,4,Employed,50001+,Yes,Death and accident insurance cover,April,Yes,Yes,1,Yes,2
+60+,Male,Married,8,Self-employed,50001+,Yes,NHIF,1 month,Yes,Yes,1,Yes,4+
+41-50,Male,Married,5,Unemployed,Less than 10000,No,Unknown,Last month,No,Yes,1,Yes,1
+41-50,Male,Married,3,Self-employed,20001-30000,Yes,Jubilee insurance,4,Yes,Yes,4+,Yes,2
+41-50,Female,Divorced,2,Employed,40001-50000,Yes,NHIF,3 months,Yes,Yes,1,Yes,2
+31-40,Female,Married,3,Self-employed,20001-30000,No,Unknown,"April 27,2024",No,Yes,1,Yes,1
+60+,Female,Widowed,6,Unemployed,10001-20000,Yes,Madison,1,Yes,Yes,1,Yes,4+
+18-30,Female,Single,0,Self-employed,10001-20000,No,Unknown,Feb,Yes,Yes,2,No,1
+41-50,Female,Divorced,4,Self-employed,30001-40000,Yes,Linda Mama,5,No,No,2,No,2
+60+,Female,Widowed,6,Unemployed,Less than 10000,Yes,Britam,2,Yes,Yes,2,Yes,2
+60+,Male,Married,8,Self-employed,40001-50000,Yes,NHIF,6,Yes,Yes,4+,Yes,2
+60+,Female,Widowed,3,Self-employed,50001+,Yes,NHIF,8,Yes,Yes,1,Yes,1
+51-60,Male,Widowed,5,Employed,40001-50000,Yes,Bima Ya Mwananchi Health Insurance,"May 5,2024",Yes,Yes,1,Yes,1
+31-40,Female,Single,0,Employed,30001-40000,Yes,NHIF,May-24,Yes,Yes,1,Yes,1
+51-60,Male,Married,4,Employed,50001+,Yes,Jubilee Health cover,3,Yes,Yes,1,Yes,1
+41-50,Male,Divorced,1,Employed,20001-30000,No,Unknown,May,No,Yes,3,Yes,2
+31-40,Male,Married,3,Employed,30001-40000,Yes,NHIF,5,Yes,Yes,4+,Yes,4+
+51-60,Male,Married,5,Employed,40001-50000,Yes,Madison insurance,5,Yes,Yes,1,Yes,2
+60+,Male,Married,5,Unemployed,30001-40000,Yes,Nhif,2,Yes,Yes,1,Yes,1
+41-50,Female,Divorced,2,Employed,50001+,Yes,NHIF,3,No,Yes,3,Yes,4+
+60+,Female,Widowed,5,Unemployed,Less than 10000,Yes,NHIF,2 months,No,Yes,1,Yes,2
+18-30,Male,Married,2,Employed,40001-50000,Yes,NHIF,Feb-24,Yes,Yes,2,Yes,3
+18-30,Male,Single,0,Employed,Less than 10000,No,Unknown,March,No,Yes,1,Yes,2
+31-40,Male,Single,0,Self-employed,40001-50000,No,Unknown,1,No,Yes,3,Yes,1
+31-40,Female,Married,2,Student,Less than 10000,No,Unknown,April,No,Yes,3,Yes,3
+60+,Female,Widowed,3,Employed,50001+,Yes,APA,10,No,Yes,1,Yes,1
+60+,Male,Married,3,Employed,Less than 10000,Yes,NHIF,April,Yes,Yes,4+,Yes,3
+18-30,Female,Divorced,1,Self-employed,10001-20000,Yes,NHIF,1 month ago,Yes,Yes,1,Yes,1
+60+,Female,Widowed,4,Unemployed,Less than 10000,Yes,NHIF,2 months,No,Yes,1,Yes,1
+51-60,Female,Married,4,Unemployed,Less than 10000,Yes,Linda mama,November,Yes,Yes,2,Yes,2
+41-50,Female,Married,3,Employed,30001-40000,Yes,NHIF,6,Yes,Yes,1,Yes,2
+51-60,Male,Married,8,Self-employed,40001-50000,Yes,CoverBora Medical Cover,This Month,Yes,Yes,3,Yes,1
+31-40,Male,Married,1,Employed,50001+,No,Unknown,1,No,Yes,2,Yes,1
+18-30,Female,Single,2,Self-employed,20001-30000,Yes,Life cover,March,Yes,Yes,1,Yes,2
+60+,Female,Married,5,Unemployed,Less than 10000,Yes,NHIF,1,Yes,Yes,1,Yes,4+
+31-40,Female,Married,2,Self-employed,10001-20000,Yes,NHIF,March,Yes,Yes,3,Yes,2
+18-30,Female,Single,2,Unemployed,50001+,Yes,Linda mama,May,Yes,Yes,2,Yes,1
+18-30,Female,Single,0,Student,Less than 10000,Yes,nhif,20 months ago,Yes,Yes,2,Yes,1
+41-50,Male,Married,4,Employed,20001-30000,Yes,Madison,"May 4,2024",Yes,Yes,1,Yes,1
+51-60,Female,Divorced,3,Unemployed,50001+,Yes,NHIF,October,No,Yes,1,Yes,2
+41-50,Female,Widowed,2,Employed,20001-30000,Yes,NHIF,1 month ago,Yes,Yes,4+,Yes,4+
+60+,Female,Widowed,7,Unemployed,20001-30000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+31-40,Female,Single,2,Employed,30001-40000,Yes,OLD Mutual,4 months ago,Yes,Yes,4+,Yes,4+
+31-40,Female,Divorced,2,Self-employed,20001-30000,Yes,J-Care medical cover,One month ago,No,Yes,4+,Yes,2
+41-50,Female,Married,4,Self-employed,50001+,Yes,Jubilee Health cover,3,Yes,Yes,1,Yes,1
+31-40,Female,Married,2,Employed,40001-50000,Yes,Jubilee Insurance,2 weeks ago,Yes,Yes,1,Yes,2
+41-50,Female,Married,Four,Employed,10001-20000,Yes,NHIF,2 months,No,Yes,1,Yes,3
+18-30,Male,Single,0,Student,Less than 10000,Yes,Britam insurance,Last month,Yes,Yes,2,Yes,3
+41-50,Female,Married,4,Self-employed,50001+,Yes,Madison Insurance,January,Yes,Yes,1,Yes,1
+51-60,Male,Married,5,Self-employed,40001-50000,Yes,Jubilee,3,Yes,Yes,1,Yes,2
+18-30,Female,Married,3,Employed,20001-30000,Yes,Emergency insurance,December,Yes,Yes,2,Yes,2
+18-30,Male,Single,0,Employed,10001-20000,Yes,National Health Insurance Fund,Three,Yes,Yes,2,Yes,1
+60+,Female,Married,6,Self-employed,20001-30000,Yes,NHIF,Mar-24,Yes,Yes,2,Yes,1
+41-50,Male,Widowed,6,Self-employed,40001-50000,Yes,NHIF,1,Yes,Yes,1,Yes,2
+51-60,Female,Married,4,Employed,30001-40000,Yes,NHIF,April,Yes,Yes,2,Yes,1
+41-50,Female,Married,3,Employed,30001-40000,Yes,NHIF,7,Yes,Yes,1,Yes,3
+18-30,Male,Single,No,Unemployed,10001-20000,Yes,NHIF,10,No,No,4+,No,4+
+31-40,Female,Married,2,Employed,20001-30000,Yes,Britam,2,Yes,Yes,1,Yes,1
+18-30,Female,Single,1,Self-employed,20001-30000,No,0,April last month,No,Yes,1,No,1
+41-50,Female,Married,4,Employed,50001+,Yes,GA Insurance,2,Yes,Yes,1,Yes,2
+18-30,Male,Single,0,Unemployed,Less than 10000,No,Unknown,3,No,Yes,3,No,3
+41-50,Female,Married,Two,Employed,40001-50000,Yes,Madison Insurance,12 months,Yes,No,2,Yes,4+
+18-30,Male,Single,Null,Student,Less than 10000,Yes,Britam,24 months,No,No,4+,No,4+
+31-40,Male,Married,3,Employed,20001-30000,Yes,NHIF,4,Yes,Yes,4+,Yes,4+
+31-40,Male,Widowed,1,Self-employed,20001-30000,No,Null,48 months,No,No,4+,No,4+
+41-50,Female,Divorced,2,Employed,30001-40000,No,Null,16 months,No,Yes,4+,Yes,4+
+31-40,Female,Married,2,Self-employed,10001-20000,Yes,NHIF,april this year,Yes,Yes,2,Yes,1
+31-40,Female,Divorced,3,Employed,50001+,Yes,Kenya Alliance,12,Yes,Yes,1,Yes,4+
+60+,Female,Married,6,Self-employed,10001-20000,Yes,Madisson health insuarance,2 months ago,Yes,Yes,1,Yes,1
+60+,Male,Married,10,Unemployed,Less than 10000,Yes,NHIF,1 month ago,Yes,Yes,1,Yes,1
+41-50,Female,Married,4,Self-employed,10001-20000,Yes,NHIF,3 months ago,Yes,Yes,1,Yes,1
+60+,Male,Divorced,7,Self-employed,10001-20000,Yes,NHIF,1 month ago,Yes,Yes,2,Yes,1
+31-40,Female,Married,2,Self-employed,Less than 10000,Yes,Unknown,4,Yes,Yes,1,Yes,1
+60+,Female,Widowed,8,Unemployed,Less than 10000,Yes,NHIF,1 month ago,Yes,Yes,1,Yes,1
+31-40,Female,Married,2,Student,50001+,Yes,National Hospital Insurance Fund,2,Yes,Yes,1,Yes,4+
+60+,Male,Married,5,Unemployed,20001-30000,No,Unknown,1,No,No,1,Yes,1
+41-50,Female,Married,2,Employed,40001-50000,Yes,NHIF,Jan-24,Yes,Yes,2,Yes,4+
+18-30,Female,Single,1,Employed,10001-20000,Yes,APA insurance,december,Yes,Yes,2,Yes,2
+51-60,Female,Widowed,8,Unemployed,50001+,Yes,Life assurance,1 month,No,Yes,1,Yes,1
+51-60,Female,Married,4,Unemployed,40001-50000,Yes,National Hospital Insurance Fund,2,Yes,Yes,4+,Yes,1
+51-60,Female,Widowed,3,Employed,50001+,Yes,NHIF,March,Yes,Yes,1,Yes,1
+51-60,Female,Widowed,6,Unemployed,Less than 10000,Yes,BRITAM,4,Yes,Yes,1,Yes,2
+51-60,Male,Married,6,Employed,20001-30000,Yes,Amica,7,Yes,Yes,2,Yes,2
+31-40,Female,Married,3,Self-employed,10001-20000,Yes,BRITAM,8,Yes,Yes,1,Yes,2
+31-40,Female,Married,3,Self-employed,50001+,Yes,NHIF,April,Yes,Yes,1,Yes,4+
+18-30,Male,Single,0,Student,10001-20000,No,Unknown,Jan about 4 months ago,No,Yes,1,Yes,1
+31-40,Male,Married,2,Employed,40001-50000,Yes,Jubilee,This month,Yes,No,1,No,1
+31-40,Female,Single,Zero,Self-employed,50001+,Yes,Jubilee,3 months ago,No,Yes,1,Yes,1
+18-30,Female,Single,0,Self-employed,30001-40000,No,0,This month,No,Yes,1,Yes,1
+18-30,Male,Single,O,Student,Less than 10000,Yes,ICEA LION,5 months,Yes,No,4+,Yes,4+
+18-30,Female,Single,0,Student,Less than 10000,Yes,APA INSURANCE,13 months,Yes,Yes,4+,Yes,4+
+41-50,Male,Married,Four,Employed,50001+,Yes,Jubilee,1 month,Yes,Yes,1,Yes,1
+31-40,Female,Single,0,Self-employed,20001-30000,No,Null,8 months,No,Yes,4+,Yes,4+
+51-60,Female,Married,5,Self-employed,30001-40000,Yes,Madison,1 month,Yes,Yes,2,Yes,4+
+18-30,Male,Single,Null,Self-employed,10001-20000,No,Null,72 months,No,No,4+,No,4+
+41-50,Male,Married,3,Employed,50001+,Yes,APA INSURANCE,12 months,Yes,Yes,4+,Yes,4+
+41-50,Female,Widowed,1,Employed,30001-40000,Yes,NHIF,3 months,Yes,Yes,3,Yes,4+
+31-40,Female,Widowed,3,Employed,20001-30000,Yes,Afya Nafuu,3,Yes,Yes,2,Yes,2
+41-50,Female,Married,3,Employed,30001-40000,Yes,APA insurance,1,Yes,Yes,1,Yes,1
+31-40,Female,Married,3,Unemployed,Less than 10000,Yes,NHIF,April,Yes,Yes,2,Yes,1
+41-50,Female,Widowed,5,Employed,40001-50000,Yes,APA Imsurance,1,Yes,Yes,1,Yes,1
+31-40,Female,Married,3,Self-employed,30001-40000,Yes,Jubilee Insurance,9 months,Yes,Yes,4+,Yes,4+
+18-30,Female,Single,0,Student,10001-20000,Yes,APA INSURANCE,24 months,Yes,No,4+,No,4+
+18-30,Male,Single,0,Self-employed,20001-30000,No,Null,14 months,No,No,4+,Yes,4+
+41-50,Female,Married,2,Self-employed,10001-20000,Yes,NHIF,3,Yes,Yes,1,Yes,2
+60+,Male,Widowed,8,Self-employed,20001-30000,Yes,Britam Insurance,1,Yes,Yes,1,Yes,2
+18-30,Female,Single,1,Student,20001-30000,No,Null,7 months,No,Yes,4+,Yes,4+
+51-60,Female,Married,5,Self-employed,Less than 10000,No,Unknown,0,No,Yes,4+,Yes,2
+51-60,Male,Married,4,Employed,50001+,Yes,Nhif,2,Yes,Yes,3,Yes,3
+41-50,Female,Married,4,Employed,20001-30000,Yes,Jubilee insurance,2 months ago,Yes,Yes,1,Yes,1
+41-50,Female,Widowed,2,Employed,10001-20000,No,Null,14 months,No,Yes,4+,No,4+
+60+,Male,Widowed,4,Self-employed,40001-50000,No,Unknown,0.5 months,No,Yes,1,Yes,2
+31-40,Female,Married,3,Self-employed,30001-40000,Yes,NHIF,April,Yes,Yes,1,Yes,2
+51-60,Female,Married,6,Unemployed,Less than 10000,Yes,NHIF,LAST MONTH,No,Yes,1,Yes,2
+51-60,Male,Married,6,Employed,50001+,Yes,Bima Ya Mwananchi,1 month ago,Yes,Yes,1,Yes,1
+31-40,Female,Single,0,Student,Less than 10000,No,Unknown,April,No,Yes,1,Yes,2
+18-30,Female,Single,0,Student,Less than 10000,Yes,NHIF,5,Yes,Yes,1,Yes,2
+60+,Female,Divorced,2,Self-employed,30001-40000,Yes,Madison insurance,0.5,No,Yes,1,Yes,2
+41-50,Male,Married,4,Self-employed,20001-30000,Yes,ApAAfyaNavuu,4,Yes,Yes,1,Yes,2
+31-40,Male,Married,2,Employed,20001-30000,Yes,"CIC,NHIF.",3,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Student,30001-40000,Yes,CIC Insurance,3,Yes,Yes,1,Yes,1
+18-30,Female,Married,2,Employed,50001+,Yes,AAR,1,Yes,Yes,1,Yes,4+
+18-30,Male,Single,0,Self-employed,20001-30000,Yes,Nhiflast,Last month,Yes,Yes,2,Yes,2
+41-50,Male,Married,2,Employed,50001+,Yes,Jubilee,2,Yes,Yes,1,Yes,1
+31-40,Female,Married,3,Employed,40001-50000,Yes,NHIF,2,Yes,Yes,2,Yes,3
+51-60,Female,Widowed,8,Self-employed,50001+,Yes,Britam,1,Yes,Yes,1,Yes,1
+60+,Female,Married,5,Unemployed,20001-30000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+60+,Female,Married,6,Unemployed,10001-20000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+60+,Male,Widowed,6,Self-employed,30001-40000,Yes,Kenya orient,4,Yes,Yes,3,Yes,1
+51-60,Male,Married,4,Employed,50001+,Yes,JUBILEE,2,Yes,Yes,2,Yes,3
+31-40,Female,Single,Null,Employed,30001-40000,Yes,M-tiba,2,Yes,Yes,1,Yes,1
+41-50,Female,Married,2,Employed,20001-30000,Yes,NHIF,Mar-24,Yes,Yes,1,Yes,1
+60+,Male,Married,6,Self-employed,50001+,Yes,NHIF,2,Yes,Yes,2,Yes,1
+31-40,Female,Married,1,Self-employed,20001-30000,Yes,UAP,1,Yes,Yes,3,Yes,4+
+41-50,Female,Divorced,3,Self-employed,50001+,No,Unknown,1,No,Yes,1,Yes,1
+31-40,Female,Married,3,Self-employed,30001-40000,Yes,National hospital,1,Yes,Yes,4+,Yes,1
+41-50,Female,Divorced,2,Self-employed,30001-40000,Yes,Jubilee,3,Yes,Yes,4+,Yes,3
+41-50,Male,Married,3,Employed,30001-40000,No,Null,17 months,No,No,4+,Yes,4+
+18-30,Female,Married,0,Employed,20001-30000,Yes,APP,9,Yes,Yes,3,Yes,4+
+18-30,Male,Single,Null,Self-employed,10001-20000,No,Null,15 months,No,No,4+,No,4+
+60+,Female,Widowed,7,Unemployed,Less than 10000,Yes,NHIF,1,Yes,Yes,4+,Yes,4+
+31-40,Female,Single,3,Self-employed,Less than 10000,Yes,NHIF,12,No,Yes,1,Yes,2
+41-50,Female,Married,2,Employed,20001-30000,No,Null,20 months,No,No,4+,Yes,4+
+51-60,Male,Married,2,Employed,30001-40000,Yes,Life and property insurance cover,April,Yes,Yes,1,Yes,2
+18-30,Male,Single,Null,Self-employed,10001-20000,No,Null,20 months,No,No,4+,No,4+
+31-40,Female,Single,Null,Self-employed,30001-40000,No,Null,72 months,No,Yes,4+,Yes,4+
+51-60,Female,Married,4,Self-employed,Less than 10000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+31-40,Male,Married,1,Employed,20001-30000,No,Null,19 months,No,Yes,4+,Yes,4+
+51-60,Male,Widowed,5,Unemployed,30001-40000,Yes,NHIF,3,Yes,Yes,1,Yes,2
+"31-40, 60+",Female,Divorced,4,Self-employed,40001-50000,Yes,Death and accident insurance cover,May,Yes,Yes,1,Yes,2
+41-50,Male,Married,4,Employed,50001+,Yes,Madison Insurance,November last year,Yes,Yes,1,Yes,2
+41-50,Female,Married,4,Employed,50001+,Yes,Madison Insurance,Feb-24,Yes,Yes,1,Yes,2
+51-60,Female,Married,6,Self-employed,50001+,Yes,Jubilee Health cover,2,Yes,Yes,1,Yes,1
+41-50,Male,Married,2,Employed,50001+,Yes,APA insurance,20-May-24,Yes,Yes,1,Yes,3
+60+,Male,Married,5,Self-employed,40001-50000,Yes,Jubilee Health cover,1,Yes,Yes,1,Yes,2
+51-60,Female,Married,4,Self-employed,30001-40000,Yes,NHIF,1 month ago,Yes,Yes,1,Yes,1
+18-30,Male,Single,1,Self-employed,Less than 10000,No,Unknown,16,No,No,4+,No,4+
+18-30,Male,Single,N/a,Unemployed,10001-20000,No,N/a,10,No,No,3,No,3
+51-60,Male,Married,0,Self-employed,20001-30000,Yes,NHIF,1 month ago,Yes,Yes,2,Yes,2
+31-40,Male,Married,2,Employed,20001-30000,Yes,Accident,1,Yes,Yes,1,Yes,1
+31-40,Male,Married,Two children,Self-employed,20001-30000,Yes,Lifetime cover,Dec-23,Yes,Yes,2,Yes,3
+18-30,Female,Married,1,Employed,30001-40000,Yes,ICEA,12,No,Yes,1,Yes,1
+51-60,Female,Widowed,Eight children,Unemployed,10001-20000,Yes,Nhif,"May 20,2024",Yes,Yes,1,Yes,2
+31-40,Male,Married,5,Employed,40001-50000,Yes,NHIF,April,Yes,Yes,2,Yes,3
+18-30,Male,Single,0,Student,Less than 10000,Yes,Nhif,Once,No,Yes,1,No,1
+60+,Male,Married,6,Self-employed,30001-40000,Yes,NHIF,Apr-24,Yes,Yes,2,Yes,1
+41-50,Female,Married,4,Self-employed,50001+,No,Unknown,Less than a month ago,No,Yes,1,Yes,1
+18-30,Female,Married,1,Self-employed,10001-20000,Yes,Heritage insurance,June last year,Yes,Yes,1,Yes,2
+31-40,Female,Single,2,Employed,40001-50000,Yes,NHIF,February,Yes,Yes,1,Yes,1
+51-60,Male,Married,5,Employed,40001-50000,Yes,Death and accident insurance cover,May,Yes,Yes,1,Yes,3
+60+,Female,Widowed,8,Self-employed,50001+,No,Unknown,6 months ago,No,Yes,2,Yes,3
+18-30,Female,Single,0,Student,Less than 10000,No,Unknown,2,No,Yes,1,Yes,1
+31-40,Female,Married,2,Unemployed,20001-30000,No,Unknown,1,No,Yes,2,Yes,3
+18-30,Female,Single,0,Student,Less than 10000,No,Unknown,3,No,Yes,1,Yes,2
+31-40,Female,Married,3,Employed,30001-40000,Yes,NHIF,3,Yes,Yes,1,Yes,1
+60+,Male,Married,5,Unemployed,10001-20000,Yes,NHIF,3,Yes,Yes,2,Yes,3
+60+,Female,Widowed,7,Unemployed,30001-40000,Yes,Nhif,2,Yes,Yes,1,Yes,2
+41-50,Male,Married,2,Employed,40001-50000,Yes,Family insurance cover,April,Yes,Yes,1,Yes,4+
+18-30,Male,Single,0,Employed,20001-30000,No,0,May,No,Yes,2,Yes,1
+41-50,Male,Married,4,Employed,30001-40000,Yes,Maddison,Last month,Yes,Yes,1,Yes,1
+51-60,Female,Widowed,4,Self-employed,Less than 10000,Yes,NHIF,3 months ago,Yes,Yes,1,Yes,1
+60+,Male,Married,9,Unemployed,Less than 10000,Yes,NHIF,1 month ago,Yes,Yes,1,Yes,1
+51-60,Male,Married,3,Employed,40001-50000,Yes,NHIF,2,Yes,Yes,3,Yes,2
+60+,Female,Married,8,Employed,50001+,Yes,Death and accident,May,Yes,Yes,1,Yes,4+
+60+,Female,Widowed,4,Unemployed,Less than 10000,Yes,GA Insurance,1,Yes,Yes,1,Yes,1
+41-50,Female,Married,4,Employed,10001-20000,Yes,NHIF,4 months ago,Yes,Yes,1,Yes,1
+18-30,Female,Married,0,Employed,40001-50000,No,0,2,No,Yes,2,No,1
+31-40,Male,Married,3,Employed,50001+,Yes,Madison,7,Yes,Yes,1,No,1
+41-50,Male,Married,5,Employed,20001-30000,No,APA,Last year,Yes,Yes,1,Yes,1
+31-40,Male,Married,2,Employed,40001-50000,No,0,2,No,No,1,No,1
+41-50,Female,Widowed,3,Employed,30001-40000,Yes,Britam,1,Yes,Yes,1,Yes,2
+41-50,Female,Married,2,Self-employed,30001-40000,Yes,NHIF,8,Yes,Yes,2,Yes,2
+18-30,Male,Married,2,Employed,30001-40000,Yes,Afyaimara health cover,2,Yes,Yes,2,Yes,1
+60+,Female,Widowed,7,Employed,50001+,Yes,APA insurance,1,Yes,Yes,1,Yes,1
+51-60,Female,Widowed,5,Employed,40001-50000,Yes,Mtiba,5,Yes,Yes,2,Yes,2
+18-30,Female,Single,0,Student,50001+,No,Unknown,12 months ago,No,Yes,1,Yes,2
+41-50,Female,Married,5,Self-employed,20001-30000,Yes,NHIF,4 months ago,No,Yes,1,Yes,2
+18-30,Female,Single,0,Student,30001-40000,Yes,Afyaimara,2,Yes,Yes,2,Yes,2
+18-30,Female,Married,1,Student,10001-20000,Yes,Nhif,2,Yes,Yes,3,Yes,2
+18-30,Female,Single,1,Student,10001-20000,No,Unknown,7,Yes,Yes,4+,Yes,4+
+60+,Male,Married,4,Unemployed,20001-30000,Yes,NHIF,3,Yes,Yes,2,Yes,2
+60+,Female,Widowed,6,Unemployed,Less than 10000,Yes,NHIF,3,Yes,Yes,1,Yes,4+
+31-40,Male,Married,4,Employed,50001+,Yes,Jubilee,17 months,Yes,Yes,2,Yes,2
+18-30,Female,Single,Null,Self-employed,20001-30000,No,Null,13 months,No,No,4+,Yes,4+
+31-40,Female,Divorced,2,Unemployed,Less than 10000,No,Null,4,No,Yes,1,Yes,2
+60+,Male,Married,6,Self-employed,10001-20000,No,NHIF,3 months,No,Yes,1,Yes,2
+31-40,Female,Married,3,Employed,10001-20000,No,Null,13 months,No,No,4+,Yes,4+
+18-30,Male,Married,1,Self-employed,20001-30000,No,Null,44 months,No,No,4+,Yes,4+
+51-60,Male,Married,60,Employed,20001-30000,Yes,NHIF,1,Yes,Yes,1,Yes,2
+18-30,Female,Single,Null,Self-employed,20001-30000,No,Null,44 months,No,Yes,4+,Yes,4+
+51-60,Female,Widowed,3,Unemployed,Less than 10000,Yes,NHIF,This month,Yes,Yes,3,Yes,1
+31-40,Male,Married,2,Self-employed,30001-40000,No,Unknown,10 months,No,Yes,4+,Yes,4+
+31-40,Female,Married,3,Employed,40001-50000,Yes,APA INSURANCE,5 months,Yes,Yes,2,Yes,4+
+18-30,Female,Married,2,Self-employed,30001-40000,No,Null,7 months,No,Yes,4+,Yes,4+
+31-40,Female,Divorced,3,Self-employed,50001+,Yes,Icea lion,5 months,Yes,Yes,2,Yes,1
+41-50,Female,Married,3,Employed,20001-30000,No,Unknown,1 month,No,Yes,1,Yes,1
+18-30,Male,Married,2,Employed,40001-50000,Yes,Resolution Insurance,6 months,Yes,Yes,3,Yes,3
+60+,Male,Married,2,Employed,40001-50000,Yes,NHIF,3,Yes,Yes,1,Yes,1
+41-50,Male,Married,4,Employed,50001+,Yes,AAR Insurance,8 months,Yes,Yes,2,Yes,2
+31-40,Female,Married,1,Self-employed,50001+,Yes,Britam Insurance,9 months,Yes,Yes,1,Yes,2
+51-60,Female,Married,5,Self-employed,Less than 10000,Yes,NHIF,4,No,Yes,3,Yes,1
+51-60,Male,Widowed,4,Self-employed,50001+,Yes,Madison,2 months,Yes,Yes,1,Yes,1
+41-50,Female,Married,4,Employed,30001-40000,Yes,NHIF,2,Yes,Yes,1,Yes,2
+60+,Male,Married,6,Self-employed,Less than 10000,Yes,NHIF,4/,No,Yes,2,Yes,3
+51-60,Female,Single,3,Employed,50001+,Yes,Britam health cover,1,Yes,Yes,1,Yes,3
+31-40,Female,Married,2,Employed,30001-40000,Yes,Brittam,"May,13",Yes,Yes,2,Yes,2
+60+,Male,Married,4,Self-employed,40001-50000,Yes,NHIF,4 months ago,Yes,Yes,2,Yes,3
+60+,Female,Widowed,7,Self-employed,Less than 10000,Yes,NHIF,10,No,Yes,1,Yes,2
+60+,Female,Widowed,3,Unemployed,Less than 10000,Yes,Madison,1,Yes,Yes,1,Yes,3
+60+,Female,Widowed,11,Unemployed,20001-30000,Yes,NHIF,2,Yes,Yes,1,Yes,2
+51-60,Male,Married,6,Unemployed,Less than 10000,No,Unknown,2,No,Yes,1,Yes,1
+60+,Male,Married,7,Self-employed,Less than 10000,Yes,N.H.I.F,1 Month,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Unemployed,Less than 10000,No,Unknown,12,No,No,1,No,1
+51-60,Female,Married,5,Unemployed,10001-20000,Yes,NHIF,3 months,Yes,Yes,1,Yes,1
+31-40,Female,Married,2,Self-employed,20001-30000,Yes,NHIF,5,No,Yes,1,Yes,2
+"41-50, 51-60",Male,Married,Yes,Employed,20001-30000,No,Unknown,May,No,Yes,2,No,1
+31-40,Male,Married,3,Employed,50001+,Yes,"AAR,APA,NHIF",5months,Yes,Yes,1,Yes,3
+18-30,Female,Single,0,Employed,20001-30000,No,Unknown,January,Unknown,Yes,1,No,2
+18-30,Female,Married,0,Employed,50001+,Yes,Icea insurance,5 months ago,Yes,Yes,1,Yes,1
+31-40,Female,Single,2,Self-employed,20001-30000,No,Unknown,2,No,Yes,4+,Yes,3
+18-30,Female,Married,1,Employed,20001-30000,No,Unknown,3,No,Yes,2,Yes,4+
+18-30,Male,Married,3,Employed,50001+,Yes,NHIF,1,Yes,Yes,1,Yes,4+
+41-50,Female,Widowed,5,Employed,40001-50000,Yes,Jubilee Insurance,Two,Yes,Yes,1,Yes,1
+51-60,Male,Married,5,Self-employed,40001-50000,Yes,NHIF,4,Yes,Yes,2,Yes,3
+31-40,Female,Married,3,Self-employed,20001-30000,Yes,National hospital insurance,1,Yes,Yes,4+,Yes,1
+31-40,Female,Divorced,3,Self-employed,20001-30000,No,Unknown,4,No,Yes,1,Yes,2
+60+,Female,Widowed,0,Unemployed,Less than 10000,No,N/a,March,No,Yes,1,Yes,3
+18-30,Male,Single,1,Employed,10001-20000,Yes,APA,Last year january,Yes,Yes,3,Yes,4+
+41-50,Male,Married,5,Unemployed,10001-20000,Yes,nhif,1,Yes,No,1,Yes,3
+18-30,Female,Married,1,Employed,20001-30000,Yes,Nhif,1,Yes,Yes,2,Yes,2
+18-30,Female,Single,0,Student,10001-20000,No,Unknown,10,No,Yes,1,Yes,2
+31-40,Male,Married,2,Employed,20001-30000,Yes,NHIF life insurance,5 months,Yes,Yes,1,Yes,1
+51-60,Male,Married,6,Self-employed,30001-40000,Yes,NHIF,3,Yes,Yes,1,Yes,1
+51-60,Male,Married,5,Employed,30001-40000,Yes,Afya Bora,3,Yes,Yes,1,Yes,2
+51-60,Male,Widowed,7,Unemployed,30001-40000,Yes,Unknown,AAR insurance,Yes,Yes,2,Yes,2
+51-60,Male,Married,2,Self-employed,Less than 10000,Yes,NHIF,5,Yes,Yes,1,Yes,1
+60+,Male,Married,3,Employed,30001-40000,Yes,NHIF,9,Yes,Yes,1,Yes,4+
+51-60,Male,Married,4,Self-employed,30001-40000,Yes,Family,4,Yes,Yes,1,Yes,2
+51-60,Female,Married,4,Self-employed,20001-30000,Yes,NHIF,6,Yes,Yes,1,Yes,4+
+41-50,Male,Married,3,Employed,40001-50000,Yes,PPO plan,June,Yes,Yes,2,Yes,1
+18-30,Female,Single,1,Student,30001-40000,No,Unknown,April,No,Yes,2,Yes,2
+18-30,Female,Married,1,Student,20001-30000,No,Unknown,2,No,Yes,2,Yes,1
+60+,Female,Widowed,5,Unemployed,40001-50000,Yes,Gemina Health cover,2,Yes,Yes,1,Yes,1
+60+,Male,Married,8,Unemployed,50001+,Yes,Britam insurance cover,1,Yes,Yes,1,Yes,2
+31-40,Male,Single,0,Employed,30001-40000,No,Unknown,7,No,Yes,1,Yes,2
+18-30,Female,Single,0,Student,10001-20000,No,Unknown,7,No,Yes,2,Yes,4+
+51-60,Male,Widowed,4,Self-employed,20001-30000,Yes,NHIF,4,Yes,Yes,3,Yes,3
+60+,Male,Married,7,Self-employed,10001-20000,Yes,NHIF,2 months ago,Yes,Yes,1,Yes,1
+"18-30, 60+",Female,Single,0,Employed,10001-20000,Yes,Jubilee,1 month ago,Yes,Yes,1,Yes,1
+60+,Female,Married,9,Unemployed,Less than 10000,Yes,NHIF,1 month ago,No,Yes,1,Yes,1
+60+,Male,Widowed,4,Self-employed,10001-20000,Yes,Maddison,16 months ago,No,Yes,3,Yes,4+
+41-50,Female,Married,3,Employed,30001-40000,No,Unknown,25 months ago,No,Yes,1,Yes,2
+31-40,Male,Single,Nkne,Employed,20001-30000,No,Unknown,6months ago,No,Yes,3,Yes,4+
+60+,Female,Widowed,10,Unemployed,Less than 10000,Yes,NHIF,1 month ago,Yes,Yes,1,Yes,2
+31-40,Male,Married,2,Employed,10001-20000,Yes,NHIF,January,Yes,Yes,2,Yes,3
+31-40,Female,Married,1,Employed,50001+,No,Unknown,7 months,No,Yes,1,Yes,1
+60+,Female,Married,3,Employed,50001+,Yes,Britam Insurance,2 months ago,Yes,Yes,1,Yes,1
+41-50,Female,Married,5,Employed,40001-50000,Yes,NHIF,5,Yes,Yes,3,Yes,3
+31-40,Female,Married,Three children,Employed,50001+,Yes,Minet insurance cover,Mar-24,Yes,Yes,2,Yes,4+
+51-60,Male,Married,Four children,Self-employed,50001+,Yes,Impatient limit,Four months ago,Yes,Yes,1,Yes,3
+41-50,Female,Married,5,Self-employed,20001-30000,No,Unknown,6,No,Yes,4+,Yes,4+
+51-60,Female,Divorced,4,Self-employed,10001-20000,No,Unknown,1,No,Yes,2,Yes,2
+18-30,Male,Married,1,Student,20001-30000,Yes,NHIF,3,No,No,3,Yes,2
+60+,Male,Widowed,6,Unemployed,Less than 10000,Yes,Jubilee,2 months ago,No,Yes,1,Yes,1
+41-50,Male,Married,5,Self-employed,30001-40000,Yes,Jubilee,7,Yes,Yes,2,Yes,3
+18-30,Female,Married,1 child,Employed,20001-30000,Yes,Jubilee,5,Yes,Yes,1,Yes,1
+31-40,Male,Married,1,Self-employed,10001-20000,No,Unknown,4,No,Yes,2,Yes,3
+18-30,Male,Single,0,Student,10001-20000,No,Unknown,3,No,Yes,1,No,2
+31-40,Male,Married,2,Unemployed,30001-40000,Yes,Health maintainance organizations,15th may this year,Yes,Yes,1,Yes,1
+51-60,Female,Widowed,3,Self-employed,40001-50000,No,Unknown,Last week,No,Yes,1,No,4+
+60+,Male,Widowed,3,Self-employed,50001+,No,Unknown,9 months ago,Unknown,Yes,2,Yes,4+
+31-40,Male,Married,2,Employed,30001-40000,Yes,Nhif,1,Yes,Yes,2,Yes,3
+31-40,Male,Married,1,Employed,30001-40000,Yes,Jubilee,5,Yes,Yes,1,No,2
+51-60,Female,Widowed,5,Self-employed,30001-40000,Yes,Britam,1,Yes,Yes,1,Yes,1
+41-50,Female,Married,3,Self-employed,10001-20000,Yes,NHIF,8,Yes,Yes,1,Yes,2
+60+,Female,Widowed,12,Unemployed,Less than 10000,Yes,NHIF,5,Yes,Yes,1,Yes,3
+51-60,Female,Married,3,Employed,50001+,Yes,Britam health cover,2,Yes,Yes,2,Yes,3
+60+,Female,Widowed,5,Self-employed,40001-50000,Yes,Gemina health insurance,2,Yes,Yes,1,Yes,2
+51-60,Female,Widowed,3,Self-employed,50001+,Yes,Britam,2,Yes,Yes,2,Yes,1
+41-50,Female,Widowed,4,Self-employed,40001-50000,Yes,NHIF,10,Yes,Yes,1,Yes,2
+18-30,Female,Married,1,Employed,40001-50000,Yes,NHIF,2,Yes,Yes,1,Yes,2
+31-40,Female,Married,1,Self-employed,20001-30000,Yes,Britam,3,Yes,Yes,4+,Yes,3
+18-30,Male,Married,1,Student,Less than 10000,No,Unknown,4,No,Yes,1,No,1
+41-50,Male,Married,2,Employed,50001+,Yes,Job cover,2,Yes,Yes,2,Yes,1
+51-60,Male,Married,6,Self-employed,30001-40000,Yes,APA,6 months ago,Yes,Yes,1,Yes,1
+41-50,Female,Divorced,5,Self-employed,30001-40000,Yes,Jubilee,12,Yes,Yes,1,Yes,3
+51-60,Female,Widowed,5,Self-employed,20001-30000,No,Unknown,I month,No,Yes,1,Yes,1
+41-50,Female,Married,3,Employed,50001+,Yes,Madison Insurance,5 months ago,Yes,Yes,1,Yes,1
+41-50,Female,Married,4,Employed,50001+,Yes,Madison Insurance,5 months ago,Yes,Yes,1,Yes,4+
+51-60,Female,Widowed,10,Self-employed,Less than 10000,No,Unknown,3,No,Yes,1,Yes,3
+60+,Male,Married,8,Employed,10001-20000,Yes,BRITAM,5,Yes,Yes,2,Yes,2
+31-40,Male,Married,3,Employed,20001-30000,Yes,Amica,5,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Student,Less than 10000,Yes,NHIF,7,Yes,Yes,1,Yes,1
+41-50,Male,Married,5,Employed,30001-40000,Yes,NHIF,4,Yes,Yes,1,Yes,1
+41-50,Female,Married,3,Employed,30001-40000,Yes,amica,9,Yes,Yes,1,Yes,1
+51-60,Female,Married,8,Self-employed,40001-50000,Yes,BRITAM,6,Yes,Yes,1,Yes,1
+60+,Male,Married,6,Employed,50001+,Yes,AMICA,3,Yes,Yes,1,Yes,1
+41-50,Female,Married,3,Self-employed,50001+,Yes,Jubilee,2,Yes,Yes,1,Yes,4+
+18-30,Male,Single,Null,Student,Less than 10000,No,Null,1 month,No,Yes,4+,No,4+
+18-30,Male,Single,Null,Employed,50001+,No,Null,3 months,No,No,4+,No,4+
+18-30,Male,Single,Null,Self-employed,50001+,No,Null,6 months,No,Yes,4+,Yes,4+
+41-50,Female,Married,3,Employed,30001-40000,Yes,NHIF,2,Yes,Yes,1,Yes,1
+41-50,Male,Married,1,Employed,40001-50000,Yes,APA,1,Yes,Yes,1,Yes,1
+41-50,Male,Married,3,Employed,30001-40000,Yes,NHIF,12,Yes,Yes,1,Yes,1
+41-50,Female,Married,5,Employed,50001+,No,APA,2,Yes,Yes,4+,Yes,4+
+41-50,Female,Widowed,9,Employed,50001+,Yes,Nhif,1,Yes,Yes,3,Yes,2
+31-40,Female,Widowed,3,Employed,50001+,Yes,Madison,2,Yes,Yes,2,Yes,4+
+31-40,Male,Divorced,5,Employed,50001+,Yes,Nhif,5,No,Yes,4+,Yes,3
+51-60,Female,Married,6,Employed,50001+,Yes,Nhif,5,Yes,Yes,3,Yes,4+
+31-40,Female,Married,4,Employed,50001+,Yes,Nhif,12,Yes,Yes,1,Yes,4+
+18-30,Female,Single,Null,Employed,20001-30000,No,Null,15 months,No,No,4+,Yes,4+
+18-30,Female,Single,Null,Employed,20001-30000,No,Null,6 months,No,Yes,4+,Yes,4+
+31-40,Female,Married,2,Self-employed,20001-30000,No,Unknown,2 months,No,Yes,1,Yes,1
+41-50,Female,Married,3,Self-employed,Less than 10000,Yes,NHIF,August last year,Yes,Yes,1,Yes,1
+60+,Male,Married,4,Self-employed,50001+,Yes,Britam medical cover,1 month,Yes,Yes,1,Yes,1
+31-40,Female,Married,2,Employed,50001+,Yes,Jubilee Insurance,3,Yes,Yes,1,Yes,1
+51-60,Female,Married,4,Employed,40001-50000,Yes,Gemina Health Insurance,2,Yes,Yes,1,Yes,2
+18-30,Female,Single,Null,Self-employed,20001-30000,Yes,Resolution Health,8 months,Yes,No,4+,Yes,3
+31-40,Female,Divorced,2,Employed,50001+,Yes,Jubilee Health insurance,7,Yes,Yes,3,Yes,4+
+31-40,Female,Married,3,Self-employed,10001-20000,Yes,NHIF,No,No,Yes,2,Yes,2
+60+,Female,Married,4,Self-employed,50001+,No,Unknown,4,No,No,1,Yes,2
+18-30,Female,Single,1,Student,20001-30000,No,Unknown,1 month,No,Yes,1,Yes,1
+60+,Male,Widowed,6,Self-employed,Less than 10000,Yes,NHIF,May,Yes,Yes,1,Yes,1
+41-50,Female,Married,6,Unemployed,Less than 10000,No,Unknown,12,No,Yes,1,Yes,1
+31-40,Female,Married,4,Self-employed,20001-30000,Yes,NHIF,2,Yes,Yes,1,Yes,1
+31-40,Male,Married,2,Self-employed,10001-20000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+31-40,Male,Married,0,Employed,30001-40000,No,Null,18 months,No,Yes,4+,No,4+
+18-30,Male,Single,0,Self-employed,Less than 10000,No,Unknown,Last year,No,No,2,No,1
+31-40,Male,Married,3,Self-employed,40001-50000,Yes,Britam,7 months,Yes,Yes,2,Yes,4+
+41-50,Female,Married,3,Employed,30001-40000,Yes,NHIF,2,No,Yes,2,Yes,1
+18-30,Female,Married,0,Unemployed,Less than 10000,No,Unknown,Last year,No,No,1,No,3
+41-50,Female,Married,1,Employed,30001-40000,Yes,Brittam,March,Yes,Yes,1,Yes,1
+60+,Male,Married,5,Employed,30001-40000,Yes,AAR insurance,1 month ago,Yes,Yes,2,Yes,1
+60+,Female,Widowed,5,Unemployed,10001-20000,Yes,NHIF,1 month,Yes,Yes,1,Yes,1
+41-50,Female,Married,2,Employed,20001-30000,Yes,National hospital insurance,A half a month ago,Yes,Yes,1,Yes,1
+51-60,Female,Married,4,Self-employed,50001+,Yes,NHIF,4,Yes,Yes,2,Yes,3
+31-40,Female,Single,2,Employed,20001-30000,No,Unknown,2 months,No,Yes,1,Yes,1
+41-50,Female,Married,6,Unemployed,10001-20000,No,Unknown,36,No,Yes,4+,Yes,4+
+51-60,Female,Widowed,8,Unemployed,20001-30000,No,Null,2,No,Yes,1,Yes,2
+41-50,Male,Married,5,Employed,50001+,Yes,Madison,2,Yes,Yes,2,Yes,1
+41-50,Female,Married,3,Unemployed,40001-50000,Yes,"Sanlam, Pacis",1,Yes,Yes,1,Yes,1
+41-50,Female,Widowed,3,Unemployed,Less than 10000,No,Unknown,2,No,Yes,1,Yes,1
+41-50,Male,Married,2,Employed,40001-50000,Yes,NHIF,46,No,Yes,1,Yes,3
+"18-30, 31-40",Female,Married,3,Unemployed,50001+,No,Unknown,3 months ago,No,Yes,2,Yes,2
+31-40,Male,Divorced,1,Employed,10001-20000,Yes,Pacis,2 months ago,Yes,Yes,1,Yes,1
+51-60,Female,Married,4,Employed,20001-30000,No,Unknown,1 month ago,No,Yes,1,Yes,1
+51-60,Male,Married,4,Self-employed,30001-40000,Yes,NHIF,2 months ago,Yes,Yes,2,Yes,3
+18-30,Male,Single,0,Unemployed,Less than 10000,No,Unknown,50,No,No,4+,No,4+
+60+,Male,Married,8,Self-employed,Less than 10000,Yes,NHIF,6,No,Yes,1,Yes,1
+31-40,Female,Married,2,Employed,10001-20000,No,Unknown,January,No,Yes,1,Yes,1
+31-40,Female,Married,Two,Self-employed,10001-20000,Yes,Yes,24months ago,Yes,No,2,No,3
+18-30,Male,Single,0,Unemployed,Less than 10000,No,Unknown,40,No,No,4+,No,4+
+41-50,Female,Widowed,3,Self-employed,40001-50000,Yes,NHIF,2,Yes,Yes,2,Yes,2
+51-60,Male,Married,3,Employed,30001-40000,Yes,JUBILEE,1,Yes,Yes,2,Yes,2
+41-50,Male,Widowed,4,Self-employed,30001-40000,Yes,Jubilee,3,Yes,Yes,2,Yes,2
+31-40,Female,Married,3,Employed,40001-50000,Yes,Britam,9 months,Yes,Yes,2,Yes,4+
+18-30,Male,Single,Null,Employed,20001-30000,No,Null,14 months,No,No,4+,Yes,4+
+41-50,Female,Single,2,Self-employed,Less than 10000,Yes,AAR,1,Yes,Yes,2,Yes,2
+51-60,Male,Married,4,Unemployed,50001+,Yes,NHIF,2,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Student,Less than 10000,Yes,Madison,10,No,Yes,4+,Yes,4+
+18-30,Male,Single,0,Employed,20001-30000,Yes,Nhif,2months,No,Yes,2,No,4+
+51-60,Female,Widowed,0,Self-employed,40001-50000,No,Unknown,May,No,Yes,1,Yes,1
+41-50,Male,Married,2,Employed,50001+,Yes,APA INSURANCE,6 months,Yes,Yes,1,Yes,4+
+41-50,Female,Married,4,Self-employed,40001-50000,Yes,NHIF,6,Yes,Yes,1,Yes,1
+"31-40, 41-50",Male,Married,4,Employed,50001+,Yes,CIC,4,Yes,Yes,1,Yes,1
+31-40,Female,Single,2,Self-employed,10001-20000,No,Unknown,46,No,Yes,4+,No,4+
+18-30,Male,Single,0,Unemployed,10001-20000,Yes,Britam,1,Yes,Yes,1,No,1
+41-50,Female,Widowed,2,Self-employed,10001-20000,Yes,NHIF,5,No,Yes,1,Yes,1
+31-40,Female,Married,3,Employed,30001-40000,Yes,NHIF,6,Yes,Yes,1,Yes,2
+51-60,Male,Married,6,Self-employed,10001-20000,No,Unknown,48,No,Yes,1,Yes,1
+51-60,Male,Widowed,5,Self-employed,50001+,Yes,Britam,1,Yes,Yes,1,Yes,1
+31-40,Female,Married,2,Self-employed,10001-20000,Yes,NHIF,1,No,Yes,1,Yes,1
+41-50,Male,Married,3,Employed,50001+,Yes,Britam,1,Yes,Yes,1,Yes,2
+31-40,Female,Married,3,Employed,30001-40000,Yes,Britam,1,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Unemployed,Less than 10000,No,Unknown,1,Unknown,Yes,2,Yes,2
+51-60,Male,Widowed,2,Employed,40001-50000,Yes,Jubilee,12 months ago,No,Yes,4+,Yes,1
+41-50,Female,Widowed,4,Self-employed,20001-30000,Yes,NHIF,3,Yes,Yes,1,Yes,2
+51-60,Male,Married,4,Employed,40001-50000,Yes,APA insurance,Apr-24,Yes,Yes,1,Yes,1
+51-60,Male,Divorced,4,Employed,50001+,Yes,Eagle Africa,1,No,Yes,1,Yes,1
+41-50,Female,Married,3,Self-employed,50001+,Yes,NHIF,5,Yes,Yes,1,Yes,4+
+51-60,Male,Married,5,Self-employed,30001-40000,Yes,NHIF,Last month,Yes,Yes,2,Yes,2
+60+,Male,Divorced,7,Unemployed,Less than 10000,Yes,NHIF,2,Yes,Yes,1,Yes,1
+31-40,Female,Married,4,Employed,30001-40000,Yes,NHIF,2,No,Yes,1,Yes,1
+31-40,Male,Married,2,Employed,40001-50000,Yes,Stormford Insurance,4,Yes,Yes,1,Yes,1
+51-60,Female,Married,3,Employed,40001-50000,Yes,Nhif,3,Yes,Yes,4+,Yes,4+
+60+,Female,Widowed,6,Unemployed,20001-30000,Yes,Nhif,1,Yes,Yes,4+,Yes,3
+41-50,Female,Married,3,Unemployed,Less than 10000,No,Unknown,1 month ago,No,Yes,1,Yes,1
+51-60,Male,Widowed,5,Self-employed,20001-30000,Yes,Old mutual,4 months ago,No,Yes,3,Yes,2
+41-50,Female,Widowed,3,Unemployed,Less than 10000,No,No,2,No,Yes,1,Yes,1
+"18-30, 31-40",Female,Married,0,Employed,50001+,Yes,Cic,3,Yes,Yes,3,Yes,1
+51-60,Female,Divorced,3,Unemployed,30001-40000,No,Unknown,4 months,Unknown,Yes,4+,Yes,3
+41-50,Male,Married,5,Employed,30001-40000,Yes,Heritage,December,Yes,Yes,2,Yes,4+
+51-60,Female,Widowed,8,Self-employed,40001-50000,Yes,Apa,March,Yes,Yes,1,Yes,1
+31-40,Male,Divorced,4,Self-employed,50001+,Yes,Jubilee,April,Yes,Yes,2,Yes,2
+41-50,Female,Married,5,Employed,40001-50000,Yes,NHIF,8,Yes,Yes,2,Yes,2
+51-60,Female,Widowed,2 children,Self-employed,10001-20000,Yes,NHIF,3 months ago,Unknown,Yes,3,Yes,3
+41-50,Female,Widowed,3,Self-employed,50001+,Yes,AAR,2,Yes,Yes,1,Yes,1
+60+,Female,Married,3,Employed,40001-50000,Yes,NHIF,1,No,Yes,1,Yes,1
+60+,Female,Widowed,6,Unemployed,Less than 10000,Yes,NHIF,May this year,Yes,Yes,1,Yes,4+
+51-60,Male,Widowed,6,Employed,50001+,Yes,Nhif,6,Yes,Yes,4+,Yes,3
+51-60,Male,Married,6,Self-employed,Less than 10000,Yes,Jubilee,6,Yes,Yes,1,Yes,1
+41-50,Male,Divorced,2,Self-employed,40001-50000,Yes,Jubilee,6,Yes,Yes,3,Yes,4+
+18-30,Female,Married,0,Self-employed,20001-30000,No,Null,12 months,No,Yes,4+,Yes,4+
+60+,Male,Married,5,Self-employed,10001-20000,Yes,NHIF,May this year,Yes,Yes,1,Yes,1
+31-40,Female,Married,2,Employed,40001-50000,Yes,Resolution Health,7 months,Yes,Yes,2,Yes,2
+18-30,Female,Married,0,Employed,30001-40000,No,Null,3 months,No,Yes,4+,Yes,4+
+18-30,Female,Single,0,Employed,20001-30000,No,Null,6 months,No,Yes,4+,Yes,4+
+60+,Female,Married,4,Self-employed,40001-50000,No,Unknown,Two weeks ago,Yes,Yes,3,Yes,1
+51-60,Male,Married,7,Employed,50001+,Yes,NHIF,1,Yes,Yes,2,Yes,3
+41-50,Female,Married,4,Self-employed,20001-30000,Yes,NHIF,3,No,Yes,1,Yes,2
+18-30,Male,Single,0,Student,Less than 10000,No,Unknown,Many,No,No,4+,No,4+
+31-40,Female,Married,5,Unemployed,Less than 10000,No,Unknown,2,No,Yes,1,Yes,1
+18-30,Female,Single,0,Student,Less than 10000,Yes,NHIF,1,Yes,Yes,2,No,4+
+60+,Male,Married,10,Self-employed,50001+,Yes,APA,1,Yes,Yes,2,Yes,2
+31-40,Female,Married,2,Employed,40001-50000,Yes,Madison,1 month,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Self-employed,Less than 10000,No,Unknown,3,No,No,4+,No,4+
+51-60,Male,Married,6,Employed,20001-30000,No,Unknown,5,Yes,Yes,1,Yes,2
+31-40,Female,Married,4,Employed,30001-40000,Yes,Britam,2 months,Yes,Yes,2,Yes,2
+60+,Female,Divorced,8,Self-employed,Less than 10000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+51-60,Female,Widowed,3,Self-employed,Less than 10000,Yes,NHIF,1,Yes,Yes,3,Yes,4+
+18-30,Male,Married,2,Employed,50001+,Yes,NHIF,7,Yes,Yes,1,No,4+
+18-30,Male,Single,Null,Student,Less than 10000,No,Null,4 months,No,No,4+,Yes,4+
+51-60,Female,Divorced,2,Self-employed,50001+,Yes,APA INSURANCE,1 month,Yes,Yes,1,Yes,1
+31-40,Male,Married,3,Employed,40001-50000,Yes,Jubilee Insurance,5 months,Yes,Yes,2,Yes,1
+51-60,Female,Married,4,Self-employed,50001+,Yes,Afyaimara,1 month,Yes,Yes,1,Yes,1
+18-30,Male,Married,2,Unemployed,10001-20000,Yes,NHIF,2,No,Yes,1,Yes,1
+18-30,Female,Single,0,Student,Less than 10000,No,Unknown,2 months ago,No,Yes,1,Yes,1
+18-30,Female,Single,1,Student,30001-40000,No,Unknown,1 month,No,Yes,1,Yes,1
+31-40,Male,Single,0,Unemployed,Less than 10000,No,Null,1,No,Yes,1,Yes,1
+18-30,Male,Single,0,Employed,Less than 10000,No,Unknown,Six months,No,Yes,2,No,3
+18-30,Female,Single,0,Student,40001-50000,No,Unknown,2 months,No,Yes,1,Yes,1
+41-50,Male,Married,3,Employed,40001-50000,Yes,Britam health insurance,3,Yes,Yes,2,Yes,2
+31-40,Female,Married,4,Employed,20001-30000,Yes,NHIF,2 months,Yes,Yes,2,Yes,2
+18-30,Female,Married,1,Employed,20001-30000,Yes,Britam,8,Yes,Yes,2,Yes,4+
+18-30,Female,Married,1,Employed,20001-30000,Yes,Britam Insurance,8,Yes,Yes,2,Yes,4+
+31-40,Female,Married,4,Unemployed,Less than 10000,Yes,Pacis Insurance,3,Yes,Yes,2,Yes,4+
+31-40,Female,Married,4,Unemployed,Less than 10000,Yes,Pacis,3,Yes,Yes,2,Yes,4+
+41-50,Female,Widowed,7,Self-employed,30001-40000,No,Unknown,April,No,Yes,1,Yes,1
+18-30,Male,Single,0,Student,Less than 10000,Yes,Life insurance cover,4,No,Yes,1,Yes,2
+31-40,Male,Married,2,Employed,30001-40000,Yes,Britam,2,Yes,Yes,1,Yes,1
+41-50,Male,Married,3,Employed,40001-50000,No,Unknown,0n january 2024,No,Yes,2,Yes,2
+60+,Female,Widowed,5,Self-employed,50001+,Yes,NHIF,1,Yes,Yes,1,Yes,1
+31-40,Male,Single,0,Employed,40001-50000,Yes,OLD MUTUAL HEALTH INSURANCE,1/2 a month ago,Yes,Yes,1,Yes,4+
+18-30,Female,Single,Null,Student,10001-20000,No,Null,16 months,No,Yes,2,Yes,4+
+18-30,Female,Single,Null,Student,Less than 10000,No,Null,5 months,No,Yes,3,Yes,3
+41-50,Female,Single,4,Employed,50001+,Yes,Jubilee Insurance,2 months ago,Yes,Yes,1,Yes,4+
+51-60,Male,Married,2,Self-employed,50001+,Yes,AfyaImara,Apr-24,Yes,Yes,1,Yes,1
+60+,Male,Widowed,4,Self-employed,40001-50000,Yes,APA Health Insurance,1 month ago,Yes,Yes,1,Yes,3
+18-30,Female,Married,0,Student,Less than 10000,Yes,Jubilee,4,Yes,Yes,3,Yes,4+
+41-50,Female,Married,4,Self-employed,40001-50000,Yes,AaR,4,Yes,Yes,1,Yes,1
+41-50,Female,Married,3,Employed,50001+,Yes,AAR insurance,4,Yes,Yes,1,Yes,1
+41-50,Male,Widowed,3,Self-employed,20001-30000,Yes,Nhif,1 month,Yes,Yes,1,Yes,1
+60+,Male,Married,5,Self-employed,50001+,Yes,ICEALION,Mar-23,Yes,Yes,2,Yes,1
+60+,Female,Married,3,Self-employed,50001+,Yes,Britam,Mar-23,Yes,Yes,1,Yes,1
+51-60,Male,Divorced,5,Self-employed,30001-40000,Yes,NHIF,2,Yes,Yes,1,Yes,2
+41-50,Male,Married,2,Employed,50001+,Yes,NHIF,2 months ago,Yes,Yes,1,Yes,3
+31-40,Female,Married,1,Employed,50001+,Yes,Madison Insurance,4 months ago,Yes,Yes,1,Yes,4+
+60+,Male,Married,5,Unemployed,50001+,Yes,Britam insurance,2 months ago,Yes,Yes,1,Yes,2
+31-40,Female,Single,0,Employed,50001+,Yes,Britam,21,Yes,Yes,1,Yes,1
+41-50,Male,Married,1,Self-employed,20001-30000,No,Unknown,1,No,Yes,4+,Yes,2
+18-30,Male,Married,2,Employed,10001-20000,No,Unknown,March,No,Yes,1,No,1
+51-60,Female,Widowed,3,Self-employed,20001-30000,Yes,NHIF,1,Yes,Yes,3,Yes,4+
+41-50,Female,Married,3,Employed,30001-40000,Yes,NHIF,3,Yes,Yes,1,Yes,1
+31-40,Male,Single,0,Student,30001-40000,No,Unknown,1,No,Yes,1,Yes,4+
+31-40,Male,Married,4,Self-employed,20001-30000,Yes,Nhif,5,Yes,Yes,2,Yes,4+
+41-50,Female,Married,1,Employed,40001-50000,Yes,Britam,9,Yes,Yes,2,Yes,3
+41-50,Male,Widowed,3,Self-employed,20001-30000,No,Unknown,10,No,Yes,2,Yes,4+
+51-60,Female,Married,4,Self-employed,30001-40000,Yes,Jubilee,2,No,Yes,2,Yes,4+
+31-40,Female,Single,2,Employed,40001-50000,Yes,Britam,2 months,Yes,Yes,1,Yes,1
+31-40,Male,Married,3,Employed,10001-20000,Yes,NHIF,3,No,Yes,1,Yes,1
+51-60,Female,Married,5,Unemployed,Less than 10000,Yes,NHIF,1,No,Yes,1,Yes,1
+31-40,Female,Married,Null,Self-employed,50001+,Yes,NHIF,1,Yes,Yes,1,Yes,1
+60+,Female,Widowed,8,Self-employed,10001-20000,Yes,NHIF,3,Yes,Yes,1,Yes,1
+31-40,Male,Widowed,3,Employed,50001+,Yes,Old mutual,8 months ago,Yes,Yes,4+,Yes,4+
+60+,Male,Divorced,4,Unemployed,Less than 10000,No,Unknown,36 months ago,No,Yes,1,Yes,1
+41-50,Female,Married,2,Employed,50001+,Yes,Old mutual,12 months ago,Yes,Yes,3,Yes,4+
+18-30,Female,Married,0,Employed,10001-20000,No,Null,15 months,No,Yes,4+,Yes,4+
+51-60,Female,Widowed,6,Self-employed,50001+,No,Unknown,0.5,Unknown,Yes,3,Yes,3
+60+,Female,Widowed,5,Unemployed,40001-50000,Yes,Britam,2 months,Yes,Yes,2,Yes,3
+41-50,Female,Divorced,2,Employed,40001-50000,Yes,NHIF,1,Yes,Yes,1,Yes,2
+60+,Male,Widowed,4,Employed,50001+,No,Unknown,3,No,Yes,1,Yes,1
+41-50,Female,Married,4 children,Employed,40001-50000,Yes,NHIF,7 months ago,Yes,Yes,2,Yes,4+
+60+,Female,Married,7,Employed,50001+,Yes,NHIF,December,Yes,Yes,1,Yes,2
+51-60,Female,Widowed,3,Employed,Less than 10000,Yes,NHIF,0.25,No,Yes,2,Yes,3
+60+,Male,Married,7,Self-employed,40001-50000,Yes,"NHIF,JUBILEE INSURANCE",2 MONTHS AGO,Yes,Yes,1,Yes,2
+41-50,Female,Divorced,4,Employed,30001-40000,Yes,NHIF,6 MONTHS AGO,Yes,Yes,1,Yes,1
+31-40,Female,Widowed,3,Self-employed,20001-30000,Yes,nhif,2 months ago,Yes,Yes,1,Yes,1
+51-60,Male,Married,6,Employed,40001-50000,Yes,uhc,less than 6 months ago,Yes,Yes,1,Yes,1
+31-40,Female,Married,3,Self-employed,50001+,Yes,nhif,3 months ago,Yes,Yes,1,Yes,1
+18-30,Female,Divorced,2,Employed,30001-40000,No,none,4 months ago,No,Yes,1,Yes,1
+31-40,Female,Widowed,3,Employed,30001-40000,Yes,NHIF,1 MONTH AGO,Yes,Yes,1,Yes,1
+31-40,Male,Married,2,Employed,50001+,Yes,"nhif,ehs,aap",3 months ago,Yes,Yes,1,Yes,1
+51-60,Female,Married,4,Employed,40001-50000,Yes,ehs,5 months ago,Yes,Yes,2,Yes,2
+31-40,Female,Married,4,Employed,50001+,Yes,aap,2 months ago,Yes,Yes,1,Yes,1
+51-60,Male,Married,4,Employed,40001-50000,Yes,NHIF,23,Yes,Yes,1,Yes,4+
+51-60,Male,Married,4,Self-employed,50001+,Yes,Madison Health insurance,1.5 months,Yes,Yes,1,Yes,1
+41-50,Male,Married,3,Self-employed,50001+,Yes,Bima Ya Mwananchi Health Cover,0.5 months,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Self-employed,Less than 10000,Yes,Nhif,Less than a month ago,No,Yes,1,Yes,1
+41-50,Female,Married,5,Self-employed,50001+,Yes,CIC,2,Yes,Yes,1,Yes,1
+18-30,Female,Married,3,Self-employed,10001-20000,Yes,Nairobi Hosipitol,1yer,No,No,1,No,1
+31-40,Female,Married,2,Employed,30001-40000,Yes,Nhif,4 months ago,No,Yes,1,Yes,2
+31-40,Female,Married,2,Employed,30001-40000,Yes,Britam,3,Yes,Yes,4+,Yes,4+
+60+,Male,Widowed,6,Unemployed,Less than 10000,Yes,NHIF,April this year,Yes,Yes,1,Yes,1
+18-30,Female,Married,1,Employed,50001+,No,Unknown,1 month,No,Yes,1,Yes,1
+31-40,Female,Single,7,Self-employed,30001-40000,Yes,Jubilee insurance,May,Yes,No,2,Yes,2
+18-30,Male,Single,Null,Employed,20001-30000,Yes,NHIF,2,No,Yes,1,Yes,2
+41-50,Female,Divorced,2,Self-employed,30001-40000,No,Unknown,2,No,Yes,2,Yes,2
+18-30,Male,Married,1,Employed,30001-40000,Yes,Britam insurance,2 months ago,Yes,No,2,No,3
+31-40,Male,Married,3,Employed,30001-40000,Yes,Nhif,5,Yes,Yes,1,Yes,1
+31-40,Male,Married,0,Employed,10001-20000,Yes,NHIF,5,Yes,Yes,2,No,2
+31-40,Female,Married,2,Self-employed,20001-30000,No,Unknown,12,No,Yes,3,Yes,1
+51-60,Male,Married,1,Employed,40001-50000,Yes,Jubilee,3,Yes,Yes,4+,Yes,4+
+41-50,Female,Married,2,Self-employed,10001-20000,Yes,NHIF,0.5,Yes,Yes,1,Yes,2
+31-40,Female,Married,2,Employed,20001-30000,Yes,NHIF,3 months,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Unemployed,Less than 10000,No,Unknown,1,No,No,4+,No,4+
+51-60,Female,Married,9,Self-employed,10001-20000,Yes,Nhif,9,Yes,Yes,1,Yes,1
+18-30,Female,Married,2,Employed,30001-40000,Yes,AAR INSURANCE,2 months ago,Yes,Yes,3,Yes,2
+31-40,Male,Single,Null,Unemployed,Less than 10000,No,Null,2,No,No,1,Yes,1
+31-40,Male,Married,2,Self-employed,Less than 10000,Yes,Nhif,6,Yes,Yes,1,Yes,3
+31-40,Female,Widowed,2,Self-employed,20001-30000,Yes,AAR insurance,1 month ago,Yes,Yes,1,Yes,2
+60+,Male,Married,5,Employed,50001+,Yes,NHIF,April,Yes,Yes,1,Yes,2
+18-30,Male,Single,0,Student,Less than 10000,No,0,2,No,No,4+,No,4+
+31-40,Female,Single,2,Employed,30001-40000,Yes,NHIF,2,Yes,Yes,2,Yes,2
+60+,Female,Widowed,5,Self-employed,50001+,Yes,AAR Insurance,Last week,Yes,Yes,1,Yes,1
+18-30,Female,Divorced,0,Self-employed,20001-30000,No,Unknown,3,No,Yes,1,Yes,1
+31-40,Male,Married,1,Employed,20001-30000,Yes,NHIF,2 months ago,Yes,Yes,2,Yes,4+
+41-50,Female,Married,4,Employed,40001-50000,Yes,AAR insurance,1,Yes,Yes,2,Yes,2
+18-30,Male,Single,0,Self-employed,Less than 10000,No,0,150,No,No,4+,No,4+
+60+,Male,Married,0,Employed,10001-20000,Yes,NHIF,2,Yes,Yes,1,Yes,1
+51-60,Female,Widowed,6,Self-employed,30001-40000,Yes,AFYA NAFUU insurance,1,Yes,Yes,2,Yes,2
+41-50,Female,Widowed,5,Self-employed,20001-30000,No,Unknown,April,No,Yes,2,Yes,2
+41-50,Female,Married,6,Employed,20001-30000,No,Unknown,February,No,Yes,2,Yes,2
+60+,Female,Married,4,Employed,40001-50000,Yes,NHIF,7,Yes,Yes,2,Yes,1
+18-30,Male,Single,0,Self-employed,10001-20000,Yes,Britam,28,Yes,Yes,4+,Yes,4+
+31-40,Male,Married,2,Unemployed,Less than 10000,No,Null,18 months,No,No,4+,No,4+
+18-30,Female,Married,1,Employed,Less than 10000,No,Null,4 months,No,Yes,1,Yes,4+
+18-30,Female,Single,Null,Employed,10001-20000,No,Null,5 months,No,Yes,4+,Yes,4+
+18-30,Male,Single,Null,Employed,20001-30000,No,Null,10 months,No,No,4+,Yes,4+
+18-30,Male,Single,Null,Unemployed,Less than 10000,No,Null,19 months,No,Yes,4+,No,4+
+31-40,Male,Divorced,3,Employed,50001+,Yes,Jubilee,1 month,Yes,Yes,1,Yes,2
+31-40,Female,Married,2,Self-employed,30001-40000,No,Null,2 months,Yes,Yes,4+,Yes,4+
+18-30,Male,Single,Null,Self-employed,10001-20000,No,Null,6 months,No,Yes,4+,Yes,4+
+31-40,Female,Married,5,Self-employed,40001-50000,Yes,Resolution Health,1 month,Yes,Yes,1,Yes,4+
+31-40,Male,Married,3,Employed,40001-50000,Yes,Britam,1/2 month,Yes,Yes,1,Yes,4+
+41-50,Male,Married,6,Employed,40001-50000,Yes,CIC Insurance,3 weeks,Yes,Yes,1,Yes,2
+18-30,Female,Single,Null,Self-employed,20001-30000,No,Null,1 month,No,Yes,4+,Yes,4+
+18-30,Female,Married,1,Self-employed,20001-30000,Yes,NHIF,4,Yes,Yes,1,Yes,1
+51-60,Male,Single,6,Unemployed,40001-50000,No,Nhif,2,Yes,Yes,1,Yes,2
+31-40,Female,Married,2,Unemployed,Less than 10000,Yes,NHIF,2,Yes,Yes,4+,Yes,3
+41-50,Male,Married,3,Employed,40001-50000,Yes,NHIF,3,Yes,Yes,4+,Yes,4+
+41-50,Female,Married,1,Self-employed,10001-20000,No,Unknown,2,No,Yes,2,Yes,2
+41-50,Female,Married,4,Employed,50001+,Yes,NHIF,5,Yes,Yes,2,Yes,4+
+31-40,Female,Married,1,Employed,30001-40000,Yes,Nhif,4,Yes,Yes,2,Yes,2
+51-60,Male,Divorced,4,Self-employed,50001+,Yes,Britam insurance cover,0.5,Yes,Yes,1,Yes,2
+51-60,Male,Married,3,Employed,40001-50000,Yes,Britam,1,Yes,Yes,2,Yes,3
+41-50,Female,Married,3,Employed,40001-50000,Yes,Nhif,2,Yes,Yes,1,Yes,4+
+41-50,Female,Married,2,Employed,10001-20000,Yes,Jubilee,9 months ago,Yes,Yes,2,Yes,1
+18-30,Female,Married,1,Employed,20001-30000,Yes,NHIF,4,Yes,Yes,1,Yes,3
+41-50,Male,Widowed,4,Employed,40001-50000,Yes,Nhif,3,No,Yes,3,Yes,4+
+60+,Male,Married,4,Self-employed,40001-50000,Yes,NHIF,1,Yes,Yes,2,Yes,2
+60+,Female,Married,8,Self-employed,50001+,Yes,NHIF,2,Yes,Yes,2,Yes,1
+41-50,Male,Married,3,Employed,50001+,Yes,CIC Insurance,11,Yes,Yes,1,Yes,4+
+60+,Male,Widowed,4,Self-employed,50001+,Yes,Nhif,2 months,Yes,Yes,1,Yes,1
+18-30,Female,Divorced,1,Employed,30001-40000,Yes,NHIF,4,Yes,Yes,1,Yes,2
+18-30,Female,Married,1,Employed,10001-20000,No,No,0,No,Yes,1,Yes,1
+31-40,Female,Married,3,Employed,10001-20000,Yes,NHIF,0,Yes,Yes,1,Yes,1
+60+,Female,Widowed,10,Unemployed,Less than 10000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+51-60,Male,Married,4,Employed,50001+,Yes,NHIF,7,Yes,Yes,1,Yes,4+
+41-50,Female,Widowed,2,Employed,50001+,Yes,Nhif,2,Yes,Yes,1,Yes,2
+60+,Female,Widowed,6,Unemployed,Less than 10000,Yes,Kang'ata care,2,Yes,Yes,1,Yes,4+
+51-60,Female,Married,6,Unemployed,Less than 10000,Yes,NHIF,0.5,Yes,Yes,1,Yes,2
+18-30,Female,Married,2,Employed,20001-30000,No,No,1,No,Yes,2,Yes,1
+60+,Male,Married,4,Employed,50001+,Yes,Jubilee,4,Yes,Yes,1,Yes,1
+60+,Female,Married,8,Unemployed,10001-20000,Yes,Nhif,3,Yes,Yes,1,Yes,2
+31-40,Female,Married,1 child,Employed,30001-40000,Yes,Jubilee insurance,13 months,Yes,Yes,1,Yes,2
+41-50,Female,Married,4 children,Employed,50001+,Yes,JUBILEE INSURANCE,10 months ago,Yes,Yes,1,Yes,1
+41-50,Female,Married,Four children,Employed,50001+,Yes,Jubilee insurance cover,One month ago,Yes,Yes,2,Yes,4+
+41-50,Female,Married,2,Employed,40001-50000,Yes,GA Insurance,2,Yes,Yes,1,Yes,1
+60+,Male,Married,8 children,Self-employed,50001+,Yes,Britam insurance cover,Three months ago,Yes,Yes,2,Yes,4+
+41-50,Male,Married,5,Employed,40001-50000,Yes,NHIF,4,Yes,Yes,1,Yes,1
+18-30,Female,Married,3,Self-employed,20001-30000,Yes,APA,January,Yes,Yes,2,Yes,3
+31-40,Female,Married,2,Self-employed,20001-30000,Yes,NHIF,2,Yes,Yes,2,Yes,1
+31-40,Male,Married,4,Employed,20001-30000,Yes,APA,June last year,Yes,Yes,3,Yes,2
+41-50,Female,Widowed,2,Self-employed,10001-20000,Yes,Britam Health Insurance,6,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Employed,10001-20000,No,Unknown,1,No,Yes,1,Yes,1
+51-60,Male,Married,4,Self-employed,50001+,Yes,BRITAM,1,Yes,Yes,1,Yes,1
+31-40,Male,Married,2,Self-employed,30001-40000,Yes,Britam,2,Yes,Yes,2,Yes,2
+41-50,Male,Divorced,3,Self-employed,50001+,Yes,CIC,6,Yes,Yes,3,Yes,2
+60+,Female,Married,5,Unemployed,Less than 10000,Yes,NHIF,1 month,Yes,Yes,1,Yes,1
+51-60,Male,Married,3 children,Self-employed,20001-30000,Yes,Apa insurance,12 months ago,Yes,Yes,1,Yes,2
+51-60,Male,Widowed,2,Self-employed,30001-40000,Yes,Old mutual,14 months ago,Yes,Yes,2,Yes,4+
+18-30,Male,Single,Null,Student,10001-20000,No,Null,4 months,No,No,4+,Yes,4+
+18-30,Female,Single,Null,Student,Less than 10000,No,Null,1 month,No,Yes,4+,Yes,4+
+41-50,Female,Widowed,5,Employed,50001+,Yes,Nhif,2,Yes,Yes,2,Yes,1
+31-40,Female,Married,2,Self-employed,30001-40000,Yes,NHIF,3,Yes,Yes,1,Yes,4+
+51-60,Male,Divorced,7,Employed,50001+,Yes,Nhif,5,Yes,Yes,2,Yes,2
+41-50,Female,Married,3,Employed,40001-50000,Yes,Linda Mama,3,Yes,Yes,3,Yes,4+
+31-40,Female,Married,1,Unemployed,Less than 10000,Yes,Ehs,5 months ago,No,Yes,1,Yes,4+
+41-50,Female,Widowed,2,Self-employed,20001-30000,Yes,Nhif,Less than a month ago,Yes,Yes,2,Yes,2
+31-40,Female,Single,0,Self-employed,20001-30000,No,Unknown,2 months ago,No,Yes,2,Yes,2
+60+,Female,Married,6,Self-employed,50001+,Yes,NHIF,April,Yes,Yes,1,Yes,1
+31-40,Female,Married,3,Unemployed,Less than 10000,Yes,Linda mama,A month ago,Yes,Yes,1,Yes,1
+18-30,Female,Married,1,Employed,10001-20000,Yes,Linda mama,A month ago,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Employed,Less than 10000,Yes,Britam insurance cover,Last year,Yes,Yes,1,Yes,1
+41-50,Female,Married,5,Unemployed,Less than 10000,No,Unknown,3,No,Yes,1,Yes,2
+60+,Female,Widowed,7,Unemployed,50001+,Yes,Britam,1,Yes,Yes,1,Yes,1
+18-30,Female,Married,0,Employed,30001-40000,Yes,Minet,18,Yes,Yes,4+,Yes,4+
+51-60,Female,Married,3,Employed,50001+,Yes,Britam medical cover,21,Yes,Yes,1,Yes,1
+31-40,Male,Married,4,Employed,30001-40000,Yes,NHIF,1,Yes,Yes,3,Yes,1
+31-40,Female,Married,5,Employed,30001-40000,Yes,NHIF,2,No,Yes,2,Yes,1
+60+,Male,Married,3,Unemployed,40001-50000,Yes,NHIF,1 month,Yes,Yes,1,Yes,4+
+41-50,Female,Married,4,Self-employed,20001-30000,No,Unknown,24,No,Yes,1,Yes,1
+51-60,Female,Married,2,Unemployed,Less than 10000,Yes,NHIF,February,Yes,Yes,1,Yes,1
+60+,Male,Married,8,Unemployed,Less than 10000,Yes,NHIF,0.5,No,Yes,1,Yes,2
+41-50,Male,Married,3,Employed,40001-50000,Yes,NHIF,4,Yes,Yes,2,Yes,4+
+31-40,Female,Widowed,3,Employed,50001+,Yes,Britam,3 months,Yes,Yes,1,Yes,4+
+31-40,Female,Single,0,Employed,50001+,Yes,APA,Jan-24,Yes,Yes,1,Yes,4+
+31-40,Male,Married,3,Employed,10001-20000,Yes,Nhif,Last year march,Yes,No,2,Yes,3
+51-60,Male,Married,4,Employed,50001+,Yes,NHIF,0.5 month,Yes,Yes,1,Yes,3
+18-30,Female,Single,1,Employed,20001-30000,No,Null,2 months,No,Yes,4+,Yes,4+
+51-60,Female,Married,2,Self-employed,50001+,Yes,Madison,May-24,Yes,Yes,1,Yes,4+
+31-40,Female,Married,3,Self-employed,10001-20000,No,No,0.5,No,Yes,2,Yes,1
+31-40,Female,Divorced,2,Self-employed,20001-30000,Yes,Bima Ya Mwananchi,0.5 months,Yes,Yes,1,Yes,1
+41-50,Female,Married,4,Employed,40001-50000,Yes,Britam Medical Insurance,4,Yes,Yes,2,Yes,1
+18-30,Male,Single,0,Self-employed,50001+,Yes,Jubilee,1,No,Yes,1,Yes,1
+31-40,Male,Married,1,Employed,30001-40000,Yes,NHIF insurance,3 months ago,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Unemployed,10001-20000,Yes,National hospital insurance,1 month ago,Yes,Yes,2,Yes,1
+51-60,Male,Married,1,Employed,20001-30000,Yes,AAR insurance,4 months ago,Yes,Yes,1,Yes,2
+18-30,Female,Single,0,Self-employed,10001-20000,Yes,NHIF insurance,1 month ago,Yes,Yes,1,Yes,1
+51-60,Female,Widowed,6,Unemployed,10001-20000,Yes,NHIF,3,Yes,Yes,1,Yes,1
+41-50,Female,Married,2,Unemployed,Less than 10000,No,Null,1 month ago,No,Yes,1,Yes,2
+51-60,Female,Married,2,Self-employed,50001+,Yes,Kenya orient insurance,1 month ago,Yes,Yes,2,Yes,1
+31-40,Male,Married,4,Self-employed,30001-40000,Yes,NHIF,0.25,Yes,Yes,3,Yes,4+
+31-40,Female,Single,1,Employed,20001-30000,Yes,NHIF,1,Yes,Yes,4+,Yes,4+
+31-40,Female,Married,Zero,Self-employed,50001+,Yes,Jubilee,4 months ago,Yes,Yes,3,Yes,3
+31-40,Female,Widowed,2,Self-employed,10001-20000,No,Unknown,4,No,Yes,4+,Yes,2
+51-60,Male,Married,3,Employed,50001+,Yes,APA,10 months ago,Yes,Yes,2,Yes,4+
+18-30,Female,Single,Zero,Employed,30001-40000,Yes,AAR,3 months ago,Yes,Yes,3,Yes,4+
+41-50,Female,Divorced,1,Self-employed,20001-30000,Yes,First Assuarancr,12 months ago,Yes,Yes,3,Yes,4+
+31-40,Male,Married,1,Employed,50001+,Yes,NHIF,3,Yes,Yes,2,Yes,3
+41-50,Male,Married,3,Employed,50001+,Yes,CIC,8 months,No,Yes,2,Yes,3
+41-50,Male,Married,0,Employed,30001-40000,Yes,Jubilee,1,No,Yes,1,Yes,2
+41-50,Female,Married,2,Employed,Less than 10000,No,Unknown,Two months,No,Yes,1,Yes,1
+18-30,Male,Single,1,Self-employed,40001-50000,Yes,AAR y,0.7,Yes,Yes,1,Yes,1
+60+,Male,Married,Null,Employed,20001-30000,No,Null,1 month ago,No,Yes,2,Yes,1
+51-60,Male,Divorced,5,Employed,50001+,Yes,CIC,3,Yes,Yes,1,Yes,1
+31-40,Male,Single,Null,Employed,20001-30000,No,Null,2 months ago,No,Yes,2,Yes,1
+18-30,Male,Single,Null,Student,Less than 10000,No,Null,2 months,No,Yes,4+,Yes,4+
+31-40,Female,Married,1,Employed,20001-30000,Yes,NHIF,7,Yes,Yes,1,Yes,4+
+31-40,Female,Married,4,Self-employed,Less than 10000,Yes,NHIF,April (1),No,Yes,1,Yes,1
+18-30,Female,Single,0,Employed,10001-20000,No,Unknown,May,No,Yes,1,Yes,1
+18-30,Female,Married,Zero,Employed,40001-50000,Yes,Britam,7 months,Yes,Yes,3,Yes,3
+41-50,Male,Married,2,Employed,50001+,Yes,UAP,9 months ago,Yes,Yes,3,Yes,4+
+51-60,Female,Married,4,Employed,50001+,Yes,Jubilee,6 months ago,Yes,Yes,2,Yes,3
+18-30,Male,Single,Null,Student,10001-20000,No,Null,7 months,No,Yes,4+,No,4+
+18-30,Male,Single,Null,Student,10001-20000,No,Null,19 months,No,No,4+,No,4+
+18-30,Female,Single,Null,Student,20001-30000,Yes,Madison,4 months,No,Yes,4+,Yes,4+
+31-40,Female,Widowed,2,Employed,10001-20000,Yes,Jubilee,5 months,No,Yes,4+,No,4+
+18-30,Male,Single,Null,Student,Less than 10000,Yes,Icea lion,5 months,Yes,Yes,4+,No,4+
+51-60,Female,Divorced,2,Employed,50001+,Yes,Unknown,5,Yes,Yes,1,Yes,2
+18-30,Male,Single,0,Student,Less than 10000,No,Unknown,4 months,No,No,1,No,1
+18-30,Female,Married,1,Self-employed,Less than 10000,No,No,4months,No,No,1,Yes,1
+51-60,Male,Divorced,3,Employed,50001+,Yes,UAP,9 months ago,Yes,Yes,3,Yes,4+
+41-50,Male,Divorced,1,Employed,50001+,Yes,CIC,5 months,Yes,Yes,3,Yes,4+
+31-40,Female,Single,0,Employed,40001-50000,Yes,NHIF,6,Yes,Yes,4+,Yes,4+
+31-40,Male,Single,0,Employed,50001+,Yes,NHIF,1,Yes,Yes,2,Yes,3
+31-40,Female,Married,1,Employed,50001+,Yes,Madisson,1,Yes,Yes,1,Yes,3
+60+,Female,Married,4,Self-employed,50001+,Yes,Britam,1,Yes,Yes,1,Yes,1
+51-60,Male,Widowed,7,Self-employed,40001-50000,Yes,AMICA,December,Yes,Yes,2,Yes,3
+31-40,Male,Married,2,Employed,10001-20000,Yes,NHIF,3,No,Yes,1,Yes,1
+31-40,Female,Married,2,Self-employed,10001-20000,Yes,NHIF,2,Yes,Yes,2,Yes,2
+51-60,Female,Married,4,Self-employed,50001+,Yes,Britam,1.25 months,Yes,Yes,1,Yes,1
+31-40,Male,Married,2,Self-employed,30001-40000,Yes,Cic,4,Yes,Yes,1,Yes,1
+51-60,Female,Married,3,Self-employed,10001-20000,Yes,NHIF,15,Yes,Yes,2,Yes,3
+60+,Male,Married,5,Self-employed,50001+,Yes,ICEALION,3,Yes,Yes,1,Yes,1
+60+,Male,Married,6 children,Self-employed,50001+,Yes,Britam insurance cover,1 month ago,Yes,Yes,2,Yes,3
+51-60,Male,Married,5,Employed,50001+,Yes,AAR Insurance,5,Yes,Yes,2,Yes,4+
+31-40,Male,Married,6,Employed,10001-20000,Yes,NHIF,0.5,Yes,Yes,3,Yes,2
+41-50,Female,Divorced,2,Self-employed,Less than 10000,No,Unknown,2 months,No,Yes,3,Yes,1
+51-60,Male,Married,7 children,Self-employed,50001+,Yes,Nhif,2 months ago,Yes,Yes,4+,Yes,4+
+"18-30, 31-40, 41-50",Female,Married,1,Employed,40001-50000,Yes,Jubilee insurance,2,Yes,Yes,1,Yes,2
+51-60,Female,Married,5,Unemployed,Less than 10000,Yes,NHIF,1,Yes,Yes,2,Yes,1
+51-60,Female,Widowed,6,Self-employed,Less than 10000,No,No,1,No,Yes,1,Yes,4+
+41-50,Female,Widowed,7,Self-employed,Less than 10000,Yes,NHIF,1,Yes,Yes,2,Yes,2
+"31-40, 41-50",Female,Married,4,Employed,50001+,Yes,NHIF,6 months,Yes,Yes,1,Yes,3
+51-60,Female,Married,5,Employed,50001+,Yes,NHIF,0.5 months,Yes,Yes,1,Yes,2
+60+,Male,Widowed,5,Self-employed,Less than 10000,Yes,NHIF,6 months ago,Yes,Yes,2,Yes,1
+31-40,Female,Married,4,Employed,10001-20000,No,No,3,No,Yes,1,Yes,4+
+31-40,Male,Married,2,Employed,20001-30000,Yes,Amica,4,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Student,Less than 10000,Yes,nhif,3,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Student,Less than 10000,Yes,Jubilee,5,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Unemployed,Less than 10000,Yes,Jubilee,6,Yes,Yes,1,Yes,1
+31-40,Male,Married,4,Self-employed,Less than 10000,Yes,Amica,4,Yes,Yes,1,Yes,1
+60+,Female,Widowed,7,Unemployed,20001-30000,Yes,Unknown,1,Yes,Yes,1,Yes,3
+18-30,Male,Single,0,Student,Less than 10000,Yes,NHIF,8,Yes,Yes,1,Yes,1
+41-50,Female,Married,5,Self-employed,30001-40000,Yes,NHIF,7,Yes,Yes,2,Yes,2
+60+,Female,Widowed,12,Self-employed,40001-50000,Yes,Jubilee,2,Yes,Yes,1,Yes,1
+51-60,Male,Married,5,Employed,50001+,Yes,Jubilee,8,Yes,Yes,1,Yes,1
+31-40,Male,Married,4,Self-employed,50001+,Yes,Amica,5,Yes,Yes,2,Yes,2
+60+,Female,Widowed,4,Self-employed,30001-40000,Yes,APA,1,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Student,50001+,Yes,APA,3.5,Yes,Yes,1,Yes,1
+31-40,Female,Married,5,Employed,50001+,Yes,Linda Mama,1,Yes,Yes,4+,Yes,3
+51-60,Male,Married,6,Employed,50001+,Yes,Nhif,2,Yes,Yes,3,Yes,1
+41-50,Female,Divorced,3,Employed,50001+,Yes,Nhif,2,Yes,Yes,1,Yes,3
+18-30,Female,Married,2,Employed,30001-40000,Yes,nhif,6 months ago,Yes,Yes,1,Yes,1
+41-50,Male,Married,3 children,Employed,40001-50000,Yes,AAR INSURANCE,14 months ago,Yes,Yes,1,Yes,3
+51-60,Female,Widowed,4,Self-employed,20001-30000,Yes,NHIF,2,Yes,Yes,4+,Yes,4+
+41-50,Female,Married,5,Self-employed,20001-30000,Yes,nhif,6 months ago,Yes,Yes,3,Yes,4+
+41-50,Female,Married,2,Self-employed,Less than 10000,Yes,NHIF,February,Yes,Yes,1,Yes,1
+41-50,Male,Married,5,Employed,30001-40000,Yes,NHIF,0.5,Yes,Yes,2,Yes,1
+18-30,Female,Single,0,Unemployed,40001-50000,No,Unknown,1 month,No,Yes,1,Yes,1
+18-30,Male,Married,2,Employed,Less than 10000,Yes,NHIF,Jan,Yes,Yes,1,Yes,1
+60+,Female,Widowed,3,Self-employed,20001-30000,Yes,NHIF,1 month,Yes,Yes,1,Yes,1
+31-40,Male,Married,2,Self-employed,30001-40000,Yes,Nhif,4,No,Yes,1,Yes,3
+31-40,Female,Married,3,Self-employed,Less than 10000,Yes,Britam,2 months ago,Yes,Yes,2,Yes,1
+31-40,Male,Married,2,Employed,40001-50000,Yes,APA,56,No,Yes,3,Yes,4+
+31-40,Female,Married,2,Self-employed,10001-20000,No,Unknown,4,No,Yes,1,Yes,2
+41-50,Male,Married,2,Employed,40001-50000,Yes,HMO plan,March,Yes,Yes,1,Yes,1
+60+,Female,Widowed,7,Unemployed,Less than 10000,Yes,Nhif,2 months ago,Yes,Yes,1,Yes,2
+31-40,Male,Married,2,Self-employed,50001+,No,Unknown,4 months,No,Yes,1,Yes,1
+41-50,Male,Divorced,0,Employed,40001-50000,Yes,Ehs,Last three months,No,Yes,1,Yes,1
+60+,Male,Married,9,Unemployed,Less than 10000,No,Unknown,Less than a month ago,No,Yes,1,Yes,2
+18-30,Male,Married,0,Employed,20001-30000,No,Null,2 months,No,Yes,4+,No,4+
+60+,Female,Married,5,Unemployed,10001-20000,Yes,NHIF,4 months,Yes,Yes,1,Yes,2
+18-30,Male,Single,Null,Student,Less than 10000,No,Null,7 months,No,No,4+,No,4+
+31-40,Male,Single,2,Employed,20001-30000,Yes,NHIF,6,No,Yes,1,Yes,1
+31-40,Female,Married,4,Self-employed,30001-40000,No,Null,2 months,No,Yes,4+,Yes,2
+18-30,Female,Single,Null,Student,Less than 10000,No,Null,3 months,No,Yes,4+,Yes,4+
+31-40,Male,Divorced,1,Self-employed,20001-30000,No,Unknown,9,No,Yes,3,Yes,4+
+18-30,Female,Single,0,Self-employed,Less than 10000,Yes,nhif,2,Yes,Yes,1,Yes,1
+41-50,Female,Single,2,Self-employed,Less than 10000,No,Unknown,Last year,No,Yes,1,Yes,1
+51-60,Female,Divorced,5,Unemployed,Less than 10000,Yes,nhif,0.25,Yes,Yes,1,Yes,1
+31-40,Male,Married,1,Employed,40001-50000,Yes,GA,March,Yes,Yes,2,No,1
+31-40,Female,Divorced,3,Employed,50001+,Yes,Apa,1 month,Yes,Yes,1,Yes,1
+51-60,Female,Married,3,Self-employed,10001-20000,Yes,NHIF,2023 August,Yes,Yes,1,Yes,1
+41-50,Male,Married,4,Employed,40001-50000,Yes,Brittam,April,Yes,Yes,1,Yes,1
+18-30,Male,Married,1,Employed,Less than 10000,Yes,GA,6,Yes,Yes,1,Yes,1
+31-40,Female,Single,0,Employed,20001-30000,Yes,Britam,17,Yes,Yes,4+,Yes,4+
+31-40,Male,Married,1,Employed,10001-20000,Yes,NHIF,6,Yes,No,4+,No,4+
+31-40,Female,Married,1,Employed,10001-20000,Yes,NHIF,6,Yes,Yes,1,Yes,1
+18-30,Male,Single,No,Unemployed,Less than 10000,Yes,NHIF,4 months ago,No,Yes,2,No,1
+60+,Female,Married,6,Self-employed,50001+,Yes,NHIF,Feb-24,Yes,Yes,1,Yes,4+
+51-60,Female,Widowed,7,Employed,50001+,Yes,UAP,2,Yes,Yes,1,Yes,1
+18-30,Female,Single,1,Self-employed,20001-30000,Yes,Jubilee,4,Yes,Yes,4+,Yes,4+
+31-40,Female,Married,3,Self-employed,50001+,No,Unknown,1,No,Yes,4+,Yes,4+
+31-40,Female,Married,3,Unemployed,Less than 10000,No,Null,2,No,Yes,4+,Yes,4+
+31-40,Female,Married,3,Unemployed,Less than 10000,No,Unknown,2,No,Yes,4+,Yes,4+
+41-50,Female,Married,2,Self-employed,20001-30000,Yes,NHIF,1,Yes,Yes,1,Yes,4+
+41-50,Female,Divorced,2,Self-employed,10001-20000,No,Unknown,5,No,Yes,4+,Yes,4+
+51-60,Female,Widowed,5,Self-employed,20001-30000,Yes,NHIF,2,Yes,Yes,3,Yes,4+
+31-40,Female,Married,1,Self-employed,30001-40000,Yes,NHIF,One ago,Yes,Yes,1,Yes,1
+31-40,Male,Married,"700,000",Self-employed,50001+,Yes,Many,Last month,Yes,Yes,1,No,4+
+41-50,Female,Married,4,Employed,50001+,Yes,APA,5,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Employed,20001-30000,Yes,NHIF,2 months ago,Yes,Yes,2,Yes,3
+41-50,Male,Married,4,Employed,50001+,Yes,NHIF,A month ago,Yes,Yes,1,Yes,2
+51-60,Male,Married,4,Self-employed,50001+,Yes,Britam,0.5,Yes,Yes,1,Yes,1
+18-30,Female,Single,One,Self-employed,Less than 10000,No,Unknown,A month ago,No,Yes,1,Yes,3
+51-60,Female,Widowed,3,Unemployed,Less than 10000,No,Unknown,3,No,Yes,2,Yes,4+
+60+,Female,Married,5,Employed,10001-20000,Yes,NHIF,2,Yes,Yes,2,Yes,4+
+31-40,Male,Married,2,Employed,20001-30000,No,Unknown,16 months ago,No,Yes,2,Yes,4+
+41-50,Female,Divorced,1,Employed,40001-50000,Yes,Madisson,3,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Employed,10001-20000,Yes,Nhif,2months ago,Yes,Yes,1,No,1
+60+,Female,Widowed,7,Unemployed,20001-30000,Yes,NHIF,8 months ago,Yes,No,2,Yes,4+
+60+,Female,Divorced,0,Self-employed,50001+,Yes,NHIF,December,Yes,Yes,1,Yes,1
+60+,Male,Widowed,4,Self-employed,30001-40000,Yes,"Britam, NHIF",5,No,Yes,2,Yes,2
+51-60,Male,Married,4,Unemployed,Less than 10000,No,Unknown,1,No,Yes,2,Yes,2
+31-40,Female,Married,2,Employed,50001+,Yes,Resolution Health,2 months,Yes,Yes,1,Yes,1
+41-50,Female,Divorced,3,Employed,40001-50000,No,Null,4 months,No,Yes,1,Yes,4+
+41-50,Female,Married,2,Employed,40001-50000,Yes,APA,2 months,No,Yes,1,Yes,1
+31-40,Female,Married,3,Employed,40001-50000,Yes,Madison Insurance,3 months,No,Yes,2,Yes,1
+51-60,Female,Divorced,7,Self-employed,50001+,Yes,Nhif,0.5 months,Yes,Yes,1,Yes,1
+60+,Female,Married,3,Self-employed,50001+,Yes,Jubilee,2,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Student,10001-20000,Yes,National Intelligence Service Medical Cover,1,Yes,Yes,1,Yes,1
+51-60,Male,Married,4,Employed,50001+,Yes,Britam,7,Yes,Yes,1,Yes,1
+31-40,Female,Single,2,Employed,20001-30000,No,Null,1 month,No,Yes,4+,Yes,4+
+60+,Female,Married,7,Unemployed,Less than 10000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+31-40,Female,Single,1,Employed,50001+,Yes,Madison insurance,1,Yes,Yes,1,Yes,1
+18-30,Female,Married,1,Employed,50001+,Yes,AON,2,Yes,Yes,1,Yes,2
+60+,Male,Married,4,Self-employed,50001+,Yes,Jubilee Insurance,5,Yes,Yes,1,Yes,1
+18-30,Male,Single,5,Student,10001-20000,Yes,NHIF,3,Yes,Yes,1,Yes,2
+41-50,Female,Widowed,2,Employed,50001+,Yes,Britam insurance,2,Yes,Yes,2,Yes,1
+18-30,Female,Single,0,Student,10001-20000,Yes,Britam insurance,1,Yes,Yes,1,Yes,3
+51-60,Male,Married,2,Self-employed,40001-50000,Yes,NHIF,3,Yes,Yes,2,Yes,4+
+31-40,Female,Married,5,Employed,40001-50000,Yes,NHIF,6,Yes,Yes,1,Yes,3
+18-30,Male,Married,1,Unemployed,Less than 10000,Yes,Nhif,12,Yes,Yes,1,No,1
+60+,Female,Widowed,4,Unemployed,Less than 10000,Yes,NHIF,2,Yes,Yes,1,Yes,1
+51-60,Male,Married,5,Self-employed,50001+,Yes,Jubilee Health Insurance,1,Yes,Yes,1,Yes,2
+31-40,Female,Divorced,2,Employed,50001+,Yes,Medical Cover,3,Yes,Yes,2,Yes,1
+41-50,Male,Single,1,Employed,50001+,Yes,NHIF,35,No,Yes,1,Yes,4+
+18-30,Female,Single,1,Unemployed,Less than 10000,No,Unknown,2,No,Yes,1,Yes,2
+51-60,Female,Widowed,7,Employed,50001+,Yes,Kang'ata care,3,Yes,Yes,1,Yes,4+
+31-40,Male,Married,2,Self-employed,30001-40000,Yes,NHIF,1,Yes,Yes,3,Yes,1
+31-40,Male,Married,0,Employed,50001+,Yes,Nhif,4,Yes,Yes,3,Yes,4+
+31-40,Female,Married,4,Employed,50001+,Yes,Linda Mama,1,Yes,Yes,2,Yes,2
+31-40,Female,Divorced,3,Self-employed,50001+,Yes,Nhif,3,Yes,Yes,3,Yes,2
+18-30,Female,Married,2,Employed,20001-30000,No,Unknown,1 month,No,Yes,1,Yes,1
+60+,Male,Widowed,5,Unemployed,20001-30000,Yes,NHIF,56,Yes,Yes,1,Yes,4+
+18-30,Female,Single,0,Student,40001-50000,No,Unknown,0.5 months,No,Yes,1,Yes,1
+18-30,Female,Married,1,Employed,20001-30000,Yes,"Ehs,nhif",7 months ago,Yes,Yes,1,Yes,1
+18-30,Female,Single,1,Student,Less than 10000,Yes,Nhif,Less than a month ago,Yes,Yes,1,Yes,1
+51-60,Female,Divorced,3,Employed,50001+,Yes,NHIF,7,Yes,Yes,4+,Yes,3
+18-30,Male,Single,Null,Student,Less than 10000,No,Null,2 months,No,Yes,4+,No,4+
+18-30,Male,Single,Null,Employed,50001+,No,Null,3 months,No,Yes,4+,Yes,4+
+18-30,Female,Single,1,Self-employed,10001-20000,No,Null,1 month,No,Yes,4+,Yes,4+
+18-30,Male,Single,Null,Self-employed,50001+,No,Null,5 months,No,Yes,4+,Yes,4+
+31-40,Male,Married,2,Self-employed,40001-50000,Yes,Madison,2 months,Yes,Yes,1,Yes,4+
+31-40,Female,Married,2,Employed,40001-50000,Yes,Jubilee Insurance,1 month,Yes,Yes,2,Yes,2
+18-30,Male,Single,Null,Student,Less than 10000,No,Null,6 months,No,No,4+,Yes,4+
+31-40,Female,Married,2,Unemployed,Less than 10000,Yes,nhif,3,Yes,Yes,1,Yes,1
+31-40,Female,Married,2,Self-employed,10001-20000,Yes,NHIF,2,Yes,Yes,2,Yes,3
+60+,Male,Married,6,Self-employed,40001-50000,Yes,Britam health cover,0.25,Yes,Yes,2,Yes,2
+18-30,Female,Single,Null,Student,10001-20000,No,Null,2 months,No,Yes,4+,No,4+
+51-60,Male,Married,3,Employed,30001-40000,Yes,NHIF,1,Yes,Yes,2,Yes,1
+31-40,Male,Married,0,Employed,30001-40000,Yes,CIC,6,Yes,Yes,3,Yes,4+
+18-30,Female,Single,2,Student,10001-20000,No,Unknown,5,No,Yes,1,Yes,2
+51-60,Male,Married,7,Self-employed,10001-20000,No,No,1,No,Yes,1,Yes,4+
+18-30,Female,Single,one,Self-employed,10001-20000,Yes,NHIF,January,Yes,Yes,2,Yes,1
+18-30,Male,Married,2,Employed,10001-20000,No,No,3,No,Yes,2,Yes,1
+18-30,Female,Single,none,Unemployed,Less than 10000,No,Unknown,2,No,Yes,1,Yes,1
+18-30,Male,Single,Null,Employed,40001-50000,Yes,APA INSURANCE,5 months,Yes,Yes,2,Yes,3
+31-40,Male,Married,4,Employed,40001-50000,Yes,Madison,6 months,Yes,Yes,2,Yes,2
+18-30,Female,Single,one,Self-employed,10001-20000,Yes,NHIF,January,Yes,Yes,1,Yes,1
+31-40,Male,Single,0,Employed,40001-50000,Yes,NHIF,7,Yes,Yes,2,Yes,2
+31-40,Male,Married,1,Employed,50001+,Yes,NHIF,2 months,Yes,Yes,3,Yes,4+
+60+,Female,Divorced,12,Unemployed,Less than 10000,Yes,Nhif,1,Yes,Yes,1,Yes,1
+"41-50, 60+",Male,Married,11,Employed,20001-30000,Yes,NHIF,Last month,Yes,Yes,2,Yes,2
+31-40,Male,Married,2,Self-employed,30001-40000,Yes,CIC,17,Yes,Yes,2,Yes,4+
+51-60,Female,Widowed,3,Employed,30001-40000,Yes,NHIF,3 months,Yes,Yes,4+,No,4+
+51-60,Female,Married,Two,Self-employed,10001-20000,Yes,NHIF,This month,Yes,Yes,3,Yes,1
+51-60,Female,Widowed,One,Employed,30001-40000,Yes,NHIF,1 month,Yes,Yes,3,Yes,4+
+51-60,Male,Married,Three,Employed,50001+,Yes,NHIF,1 month,Yes,Yes,1,Yes,1
+60+,Female,Widowed,Five,Employed,40001-50000,Yes,"NHIF, APA HEALTH INSURANCE",1 month,Yes,Yes,1,Yes,1
+51-60,Male,Married,12,Employed,20001-30000,Yes,NHIF,Last month,Yes,Yes,2,Yes,1
+41-50,Female,Divorced,3,Self-employed,20001-30000,No,Unknown,2,No,Yes,1,Yes,3
+18-30,Female,Single,0,Self-employed,10001-20000,No,Unknown,5,No,Yes,3,Yes,2
+51-60,Male,Married,6,Employed,50001+,Yes,APA Insurance,10,Yes,Yes,3,Yes,4+
+31-40,Female,Married,2,Self-employed,20001-30000,Yes,NHIF,2,Yes,Yes,3,Yes,4+
+51-60,Female,Married,0,Self-employed,10001-20000,Yes,Jubilee,4 months ago,Yes,Yes,1,Yes,1
+41-50,Male,Married,2,Employed,Less than 10000,Yes,NHIF,12 months ago,Yes,Yes,2,Yes,3
+31-40,Male,Married,2,Employed,50001+,Yes,CIC health,4,Yes,Yes,4+,Yes,1
+51-60,Male,Widowed,5,Employed,40001-50000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+31-40,Female,Married,0,Self-employed,20001-30000,Yes,Britam,5,No,Yes,4+,Yes,4+
+41-50,Male,Married,2,Self-employed,20001-30000,Yes,N.H.I.F,3,Yes,Yes,1,Yes,2
+41-50,Male,Married,3,Employed,30001-40000,Yes,NHIF,4,Yes,Yes,2,Yes,4+
+31-40,Female,Married,2,Self-employed,20001-30000,Yes,GA,0,No,Yes,1,Yes,1
+31-40,Male,Married,2,Employed,50001+,Yes,NHIF,3,Yes,Yes,4+,Yes,2
+18-30,Female,Single,0,Student,40001-50000,No,Unknown,April,No,Yes,1,Yes,2
+51-60,Male,Married,0,Self-employed,20001-30000,Yes,Nhif,2 months,Yes,Yes,2,Yes,2
+60+,Male,Married,4,Employed,10001-20000,Yes,Nhif,2 months,No,Yes,1,Yes,1
+18-30,Female,Married,1,Employed,20001-30000,Yes,Jaza Insurance Agency,1,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Student,Less than 10000,No,Unknown,100,No,No,4+,No,4+
+60+,Female,Widowed,6,Unemployed,10001-20000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+31-40,Male,Divorced,2,Unemployed,Less than 10000,No,Unknown,50,No,No,4+,No,4+
+51-60,Male,Married,6,Self-employed,10001-20000,Yes,NHIF,2,No,Yes,1,Yes,1
+31-40,Female,Married,1,Self-employed,Less than 10000,No,Unknown,3,No,No,4+,No,4+
+31-40,Female,Married,2,Employed,20001-30000,No,Null,4 months,No,Yes,4+,Yes,4+
+60+,Female,Married,6,Unemployed,10001-20000,Yes,"NHIF, britam",2,No,Yes,3,Yes,3
+60+,Female,Widowed,Eight children,Unemployed,30001-40000,Yes,Nhif,One month ago,Yes,Yes,1,Yes,4+
+51-60,Female,Married,4,Self-employed,50001+,Yes,Nhif,May,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Employed,50001+,Yes,NHIF,7,No,No,4+,No,4+
+18-30,Female,Single,0,Student,10001-20000,Yes,Jubilee Insurance,2,Yes,Yes,1,Yes,2
+51-60,Male,Divorced,0,Self-employed,30001-40000,Yes,NHIF,12,Yes,Yes,4+,Yes,4+
+60+,Male,Widowed,3,Self-employed,Less than 10000,Yes,NHIF,45,Yes,Yes,3,Yes,3
+31-40,Male,Married,3,Self-employed,30001-40000,Yes,GNHIF,NHIF,Yes,Yes,3,Yes,4+
+51-60,Male,Widowed,3,Unemployed,40001-50000,Yes,AAR Insurance,1,Yes,Yes,1,Yes,1
+41-50,Female,Married,6,Employed,40001-50000,Yes,NHIF,13,Yes,Yes,2,Yes,2
+31-40,Female,Married,2,Self-employed,40001-50000,Yes,Jubilee,5,Yes,Yes,1,Yes,1
+18-30,Male,Single,1,Self-employed,50001+,Yes,AAR,10,Yes,Yes,3,Yes,1
+18-30,Male,Married,6,Self-employed,40001-50000,No,Unknown,10,No,No,3,No,1
+51-60,Male,Married,3,Unemployed,Less than 10000,Yes,NHIF,0.5,Yes,Yes,2,Yes,2
+41-50,Male,Married,4,Employed,50001+,Yes,Madisson,3,Yes,Yes,1,Yes,1
+41-50,Female,Widowed,4,Employed,20001-30000,Yes,NHIF,1,No,Yes,4+,Yes,3
+18-30,Female,Single,1,Employed,10001-20000,No,Unknown,4,No,Yes,4+,Yes,4+
+18-30,Female,Married,2,Employed,30001-40000,Yes,NHIF,7,Yes,Yes,2,Yes,2
+51-60,Male,Married,2,Self-employed,30001-40000,Yes,NHIF,3,Yes,Yes,1,Yes,2
+60+,Male,Married,4,Self-employed,50001+,Yes,Madisson,1,Yes,Yes,1,Yes,1
+18-30,Female,Single,0,Employed,50001+,Yes,Icea lion,10,Yes,Yes,1,Yes,1
+41-50,Female,Married,2,Employed,50001+,Yes,Britam,5,Yes,Yes,1,Yes,4+
+31-40,Female,Married,3,Self-employed,50001+,Yes,Britam,1 month,Yes,Yes,1,Yes,2
+18-30,Male,Married,0,Self-employed,50001+,Yes,Jubilee,3 months,Yes,Yes,2,Yes,4+
+18-30,Male,Single,Null,Self-employed,40001-50000,No,Null,1 month,No,Yes,1,Yes,4+
+18-30,Male,Single,Null,Student,50001+,Yes,Britam,1 month,Yes,Yes,2,Yes,4+
+18-30,Female,Single,Null,Self-employed,40001-50000,No,Null,1 month,Yes,Yes,3,Yes,4+
+18-30,Female,Married,0,Self-employed,40001-50000,Yes,Britam,1 month,Yes,Yes,2,Yes,4+
+41-50,Male,Married,3,Employed,30001-40000,Yes,Nhif,2 months ago,Yes,Yes,1,Yes,1
+31-40,Female,Married,1,Employed,30001-40000,Yes,Ehs,3months ago,No,Yes,2,Yes,2
+18-30,Male,Single,0,Student,Less than 10000,No,0,4,No,No,4+,No,4+
+31-40,Female,Married,4,Employed,20001-30000,Yes,Nhif,4 months ago,Yes,Yes,1,Yes,1
+41-50,Male,Married,3,Employed,40001-50000,Yes,Nhif,Less than a month ago,Yes,Yes,1,Yes,1
+18-30,Male,Married,0,Self-employed,40001-50000,No,Null,2 month,No,Yes,4+,Yes,4+
+18-30,Male,Single,Null,Self-employed,50001+,No,Null,3 months,No,Yes,4+,No,4+
+18-30,Male,Single,Null,Self-employed,40001-50000,No,Null,3 months,Yes,No,4+,No,4+
+41-50,Male,Married,4,Employed,20001-30000,Yes,HMOs,1 Month ago,Yes,Yes,1,Yes,1
+41-50,Male,Married,2,Employed,30001-40000,Yes,NHIF,March,Yes,Yes,1,Yes,1
+31-40,Female,Single,0,Employed,30001-40000,Yes,NHIF,10,Yes,Yes,1,No,4+
+18-30,Female,Married,2,Employed,10001-20000,No,Unknown,0.5 months,No,Yes,1,Yes,1
+18-30,Male,Single,0,Student,Less than 10000,No,Unknown,50,No,No,4+,No,4+
+18-30,Female,Married,2,Self-employed,10001-20000,Yes,NHIF,September,No,Yes,1,Yes,4+
+18-30,Female,Single,0,Employed,20001-30000,No,Unknown,1 month,No,Yes,1,Yes,1
+31-40,Female,Married,2,Self-employed,20001-30000,Yes,CIC,5,Yes,Yes,3,Yes,3
+51-60,Female,Married,4,Self-employed,50001+,Yes,NHIF,April,No,Yes,1,Yes,1
+31-40,Male,Single,0,Unemployed,Less than 10000,No,Unknown,2 Months ago,No,Yes,2,Yes,2
+18-30,Male,Single,0,Employed,Less than 10000,No,Unknown,40,No,No,4+,No,4+
+41-50,Male,Married,3,Employed,50001+,Yes,NHIF,1/2 month,Yes,Yes,2,Yes,2
+51-60,Female,Widowed,3,Self-employed,30001-40000,Yes,Britam,14 months ago,Yes,Yes,2,Yes,1
+51-60,Female,Married,2,Employed,40001-50000,Yes,Britam,8,Yes,Yes,2,Yes,4+
+51-60,Female,Widowed,4,Self-employed,30001-40000,Yes,NHIF,4,Yes,Yes,2,Yes,3
+41-50,Female,Widowed,3,Self-employed,30001-40000,No,Unknown,40,No,Yes,1,Yes,3
+18-30,Male,Single,0,Unemployed,10001-20000,Yes,Madison Insurance,3 years ago,Yes,Yes,1,Yes,2
+31-40,Female,Married,2,Employed,20001-30000,Yes,Nhif,6,Yes,Yes,2,Yes,1
+31-40,Female,Married,2,Self-employed,Less than 10000,No,Unknown,3,No,Yes,1,Yes,2
+41-50,Male,Married,2,Employed,20001-30000,Yes,Nhif,3,Yes,Yes,1,Yes,1
+18-30,Male,Single,0,Employed,Less than 10000,Yes,NHIF,Last year,Yes,Yes,1,Yes,1
+51-60,Male,Married,5,Self-employed,40001-50000,Yes,AFYA NAFUU insurance,1,Yes,Yes,1,Yes,2
+31-40,Male,Married,4,Employed,30001-40000,Yes,Jubilee,5,Yes,Yes,3,Yes,3
+41-50,Female,Married,3,Unemployed,Less than 10000,Yes,Nhif,1,No,Yes,1,Yes,1
+41-50,Female,Married,3,Employed,50001+,Yes,Aar insurance,A month ago,Yes,Yes,1,Yes,3
+41-50,Female,Married,3,Self-employed,20001-30000,Yes,NHIF,2,Yes,Yes,2,Yes,3
+51-60,Male,Married,3,Employed,50001+,Yes,Cic insurance,Last month,Yes,Yes,2,Yes,2
+41-50,Male,Married,0,Employed,10001-20000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+51-60,Female,Divorced,3,Employed,50001+,Yes,Madison,1,Yes,Yes,2,Yes,2
+41-50,Male,Married,3,Employed,40001-50000,Yes,Cic insurance,2 months agi,Yes,Yes,2,Yes,2
+41-50,Male,Married,6,Self-employed,50001+,Yes,NHIF,Aug-23,Yes,Yes,1,Yes,4+
+51-60,Female,Married,3,Self-employed,50001+,No,Unknown,February,No,Yes,1,Yes,2
+60+,Male,Married,5,Employed,50001+,Yes,NHIF,Thi month(May),Yes,Yes,1,Yes,2
+18-30,Female,Widowed,1,Self-employed,20001-30000,Yes,Britam,14,Yes,Yes,1,Yes,3
+18-30,Female,Single,0,Self-employed,10001-20000,No,Unknown,Last year,No,Yes,2,Yes,2
+31-40,Female,Single,One,Self-employed,10001-20000,Yes,Jubilee,Many years ago,No,No,3,No,3
+31-40,Female,Married,One,Employed,10001-20000,No,Unknown,Last 11 month,No,Yes,2,Yes,1
+18-30,Female,Married,0,Employed,20001-30000,Yes,nhif,1,Yes,Yes,2,Yes,1
+60+,Male,Married,3,Employed,40001-50000,Yes,NHIF,Last month,Yes,Yes,3,Yes,2
+51-60,Male,Married,4,Employed,10001-20000,Yes,NHIF,Last month,Yes,Yes,1,Yes,1
+51-60,Female,Married,One,Employed,40001-50000,Yes,NHIF,Last two months,Yes,Yes,3,Yes,2
+41-50,Female,Married,3,Self-employed,30001-40000,Yes,nhif,1,Yes,Yes,1,Yes,2
+41-50,Female,Married,2,Self-employed,50001+,Yes,NHIF,2021,Yes,No,3,Yes,4+
+51-60,Male,Married,5,Employed,50001+,Yes,britam,2,No,Yes,4+,Yes,2
+31-40,Female,Single,1,Employed,40001-50000,Yes,nhif,1,Yes,Yes,2,Yes,1
+31-40,Female,Married,2,Employed,30001-40000,Yes,nhif,1,Yes,Yes,1,Yes,2
+41-50,Female,Married,5,Employed,20001-30000,Yes,nhif,2,Yes,Yes,2,Yes,1
+41-50,Female,Married,5,Employed,20001-30000,Yes,nhif,5,Yes,Yes,3,Yes,3
+51-60,Female,Married,4,Employed,40001-50000,Yes,cover bora,3,Yes,Yes,4+,Yes,4+
+51-60,Female,Married,4,Self-employed,50001+,Yes,Britam insurance,3,Yes,Yes,2,Yes,3
+51-60,Female,Widowed,7,Unemployed,Less than 10000,Yes,NHIF,1,Yes,Yes,1,Yes,2
+31-40,Female,Married,3,Unemployed,Less than 10000,No,No,2,No,Yes,3,Yes,4+
+18-30,Female,Married,1,Unemployed,Less than 10000,Yes,nhif,1,Yes,Yes,2,Yes,3
+51-60,Female,Divorced,3,Self-employed,30001-40000,Yes,nhif,5,Yes,Yes,3,Yes,4+
+41-50,Male,Widowed,Five,Employed,50001+,Yes,CIC HEALTH INSURANCE,1 months ago,Yes,Yes,1,Yes,4+
+18-30,Male,Married,1,Self-employed,40001-50000,Yes,NHIF,1,Yes,Yes,3,Yes,2
+31-40,Male,Married,2,Employed,40001-50000,Yes,nhif,3,Yes,Yes,1,Yes,4+
+41-50,Male,Married,4,Self-employed,40001-50000,Yes,NHIF,13,Yes,Yes,1,Yes,4+
+60+,Male,Married,7,Self-employed,40001-50000,Yes,nhif,1,Yes,Yes,2,Yes,2
+51-60,Female,Married,6,Employed,50001+,Yes,nhif,1,Yes,Yes,1,Yes,1
+41-50,Male,Divorced,Five children,Self-employed,50001+,Yes,APA insurance cover,Two months ago,Yes,Yes,3,Yes,4+
+51-60,Female,Widowed,4,Employed,20001-30000,Yes,NHIF,12,Yes,Yes,1,Yes,4+
+51-60,Male,Married,4,Self-employed,50001+,Yes,Unknown,8,Yes,Yes,2,Yes,4+
+51-60,Male,Married,3,Self-employed,30001-40000,Yes,Nhif,5,No,Yes,3,Yes,4+
+60+,Female,Widowed,6,Employed,30001-40000,Yes,Nhif,2,Yes,Yes,1,Yes,2
+41-50,Male,Married,2,Employed,40001-50000,Yes,Nhif,4,No,Yes,4+,Yes,4+
+31-40,Male,Married,2 children,Self-employed,20001-30000,Yes,NHIF,20 months ago,Yes,Yes,1,Yes,2
+60+,Female,Married,8,Employed,50001+,Yes,Nhif,0.25 months,Yes,Yes,1,Yes,1
+60+,Male,Married,3,Self-employed,50001+,Yes,Jubilee,2,Yes,Yes,1,Yes,1
+41-50,Female,Married,2,Employed,40001-50000,Yes,NHIF,3,Yes,Yes,1,Yes,1
+41-50,Male,Married,3,Employed,50001+,Yes,Britam,5,Yes,Yes,1,Yes,1
+31-40,Female,Married,2 kids,Employed,50001+,Yes,NHIF,12 months,Yes,Yes,1,Yes,4+
+41-50,Female,Divorced,3,Self-employed,30001-40000,Yes,NHIF,2,Yes,Yes,3,Yes,1
+41-50,Male,Widowed,5,Employed,30001-40000,No,Unknown,9,No,Yes,3,Yes,1
+18-30,Male,Married,4,Self-employed,20001-30000,Yes,NHIF,2,Yes,Yes,2,Yes,1
+51-60,Female,Married,2,Employed,40001-50000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+60+,Female,Widowed,6,Self-employed,20001-30000,Yes,NHIF,1,Yes,Yes,1,Yes,1
+31-40,Female,Single,2,Self-employed,30001-40000,Yes,UAP,5,Yes,Yes,4+,Yes,4+
+31-40,Female,Married,3,Unemployed,30001-40000,Yes,NHIF,4,Yes,Yes,4+,Yes,4+
+41-50,Female,Married,2,Unemployed,40001-50000,Yes,Jubilee,2,Yes,Yes,2,Yes,4+
+31-40,Female,Divorced,4,Self-employed,40001-50000,Yes,NHIF,2 months,Yes,Yes,1,Yes,2
+31-40,Female,Married,1,Self-employed,50001+,Yes,Britam,1,Yes,Yes,2,Yes,1
+60+,Male,Married,4,Self-employed,50001+,Yes,NHIF,15,Yes,No,4+,No,4+
+51-60,Male,Married,4,Employed,50001+,Yes,NHIF,4,Yes,Yes,2,Yes,4+
+18-30,Male,Single,1,Unemployed,Less than 10000,No,Unknown,10,No,Yes,1,Yes,1
+41-50,Female,Married,1,Unemployed,Less than 10000,No,Unknown,3 months ago,No,Yes,1,Yes,2
